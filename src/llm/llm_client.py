@@ -40,17 +40,27 @@ class VLLMClient(LLMClient):
 class GroqClient(LLMClient):
     def __init__(self, api_key: str = None, model: str = "llama-3.3-70b-versatile"):
         self.api_key = api_key or os.getenv("GROQ_API_KEY")
+        if not self.api_key:
+            raise ValueError("GROQ_API_KEY not found in environment variables")
         self.model = model
         self.client = openai.OpenAI(
             base_url="https://api.groq.com/openai/v1",
-            api_key=self.api_key
+            api_key=self.api_key,
+            timeout=30.0  # Add timeout
         )
 
     def chat(self, messages: List[Dict[str, str]], **kwargs) -> str:
-        # Default behavior
-        response = self.client.chat.completions.create(
-            model=self.model,
-            messages=messages,
-            **kwargs
-        )
-        return response.choices[0].message.content
+        try:
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=messages,
+                timeout=30.0,  # Add timeout to request
+                **kwargs
+            )
+            return response.choices[0].message.content
+        except Exception as e:
+            # Better error message
+            error_msg = f"Groq API Error: {str(e)}"
+            if "Connection error" in str(e):
+                error_msg += "\n\nPossible causes:\n1. Network blocked by Hugging Face Spaces\n2. Groq API is down\n3. Invalid API key"
+            raise Exception(error_msg) from e

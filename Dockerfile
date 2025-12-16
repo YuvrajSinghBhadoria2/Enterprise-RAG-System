@@ -14,6 +14,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application code
 COPY . .
 
+# Set Python path
+ENV PYTHONPATH=/app
+
 # Generate data on first run
 RUN python3 tools/generate-dataset.py && \
     python3 src/ingestion/ingest.py
