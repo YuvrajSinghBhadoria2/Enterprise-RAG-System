@@ -10,60 +10,75 @@
 
 ## � Recommended Providers
 
-For this Docker-based application, we recommend a **Virtual Private Server (VPS)** for full control and cost-effectiveness:
-
-1.  **DigitalOcean** (Recommended):
-    *   **Product**: Basic Droplet
-    *   **Size**: 4GB RAM / 2 CPU (approx $24/mo)
-    *   **OS**: Ubuntu 24.04 LTS Docker
-    *   *Why? Easiest to set up, one-click Docker pre-installed.*
-
-2.  **AWS (Amazon Web Services)**:
-    *   **Product**: EC2 (t3.medium) or Lightsail
-    *   **Why?** Enterprise standard, reliable global availability.
-
-3.  **Google Cloud Platform**:
-    *   **Product**: Compute Engine (e2-medium)
-
-4.  **Railway.app** (Easiest PaaS):
+ **Railway.app** (Easiest PaaS):
     *   Perfect for quick demos.
     *   Supports our `Dockerfile` setup out of the box.
 
-## 🚂 Railway.app Deployment (PaaS)
+## 🚂 Railway.app Deployment (Complete Setup)
 
-Railway is great for deploying without managing a server. You will deploy two separate services: **API** and **UI**.
+Railway requires deploying **two separate services** from the same repository.
 
-### 1. Prerequisites
-*   Fork this repository to your GitHub account.
-*   Sign up at [Railway.app](https://railway.app).
+### Prerequisites
+*   GitHub repository: `https://github.com/YuvrajSinghBhadoria2/Enterprise-RAG-System.git`
+*   Railway account: [railway.app](https://railway.app)
+*   Groq API Key
 
-### 2. Deploy API Service
-1.  **New Project** -> **Deploy from GitHub repo** -> Select `enterprise-rag`.
-2.  Click the specific service card to configure it.
-3.  **Settings** -> **Build**:
-    *   **Dockerfile Path**: `docker/Dockerfile.api`
-4.  **Variables**:
-    *   `GROQ_API_KEY`: `gsk_...`
-    *   `PORT`: `8000`
-5.  **Build & Deploy**: Click Deploy.
-6.  **Data Generation** (Critical):
-    *   Since Railway is ephemeral, you need to generate data on startup or use a Volume.
-    *   **Easiest way for Demo**: Update "Start Command" in settings to:
-        ```bash
-        python3 tools/generate-dataset.py && python3 src/ingestion/ingest.py && uvicorn src.app.main:app --host 0.0.0.0 --port 8000
-        ```
-    *   *Note: This regenerates the index on every restart (takes ~30s).*
+### Step 1: Deploy API Service
 
-### 3. Deploy UI Service
-1.  In the same project, click **+ New** -> **GitHub Repo** -> `enterprise-rag` (Again).
-2.  **Settings** -> **Build**:
-    *   **Dockerfile Path**: `docker/Dockerfile.streamlit`
-3.  **Variables**:
-    *   `API_URL`: Use the **Public Domain** (or private internal URL) of your API service (e.g., `https://web-production-1234.up.railway.app/api/v1/chat`).
-4.  **Deploy**.
+1. **Create New Project** in Railway
+2. **Deploy from GitHub** → Select your repository
+3. Railway will auto-detect the `railway.toml` and use the Dockerfile
+4. **Add Environment Variables**:
+   ```
+   GROQ_API_KEY=gsk_your_key_here
+   PORT=8000
+   ```
+5. **Deploy** - Railway will build using `docker/Dockerfile.api`
+6. **Get API URL** - Copy the public URL (e.g., `https://enterprise-rag-production.up.railway.app`)
 
-### 4. Verified
-Open your UI Service URL. It should connect to the API and serve answers.
+### Step 2: Deploy UI Service
+
+1. In the **same Railway project**, click **+ New Service**
+2. **Deploy from GitHub** → Select the **same repository**
+3. **Configure Build**:
+   - Go to **Settings** → **Build**
+   - Set **Dockerfile Path**: `docker/Dockerfile.streamlit`
+4. **Add Environment Variable**:
+   ```
+   API_URL=https://your-api-url-from-step1.up.railway.app/api/v1/chat
+   ```
+   *(Replace with your actual API URL from Step 1)*
+5. **Deploy**
+
+### Step 3: Generate Data (Critical!)
+
+Railway containers are ephemeral, so you need to generate data on startup:
+
+**Option A: One-time manual generation** (for testing):
+```bash
+# In Railway API service shell
+python3 tools/generate-dataset.py
+python3 src/ingestion/ingest.py
+```
+
+**Option B: Auto-generate on startup** (recommended):
+Update the `railway.toml` start command to include data generation.
+
+### Step 4: Access Your Application
+
+- **UI**: `https://your-ui-service.up.railway.app`
+- **API Docs**: `https://your-api-service.up.railway.app/docs`
+
+### Troubleshooting
+
+**Build Timeout?**
+- Ensure `.dockerignore` excludes `venv/` and `data/`
+- Check that `railway.toml` points to the correct Dockerfile
+
+**UI Can't Connect to API?**
+- Verify `API_URL` environment variable in UI service
+- Ensure API service is deployed and running
+- Check API URL includes `/api/v1/chat` endpoint
 
 ---
 
