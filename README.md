@@ -1,3 +1,14 @@
+---
+title: Enterprise RAG System
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.32.2"
+app_file: app.py
+pinned: false
+---
+
 # 🔍 Enterprise RAG System
 
 > **A production-ready Retrieval Augmented Generation system featuring Hybrid Search, Reranking, and Hallucination Prevention.**
