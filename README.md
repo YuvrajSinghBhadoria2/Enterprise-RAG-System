@@ -1,14 +1,3 @@
----
-title: Enterprise RAG System
-emoji: 🚀
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.32.2
-app_file: app.py
-pinned: false
----
-
 # 🏢 Enterprise RAG System
 > **Production-Grade Knowledge Retrieval with Zero-Latency Startup & Hybrid Search**
 
