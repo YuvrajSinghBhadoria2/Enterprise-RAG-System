@@ -1,0 +1,31 @@
+Source: Multi-News
+
+Crawl performed by Internet Archive. This data is currently not publicly accessible. ||||| WASHINGTON (MarketWatch) -- Two top financial regulators said Tuesday they aren't sure yet what caused the stock market's dizzying May 6 plunge and partial recovery, but they don't believe any one event created it. 
+ 
+ At issue is the Dow Jones Industrial Average drop of nearly 1,000 points last Thursday - a fall of roughly $1 trillion in market value -- much of it in a matter of minutes, before recovering to a 348-point loss for the session. 
+ 
+ Both Mary Schapiro, Securities and Exchange Commission chairwoman, and Gary Gensler, Commodity Futures Trading Commission chairman, refuted speculation that a trader might have made a so-called "fat finger" error that contributed to the stock market plunge. 
+ 
+ "Neither our review nor reviews by the relevant exchanges and market participants have uncovered such an error [fat-finger] trade," said Schapiro at a Capitol Hill hearing on the stock plunge and a subsequent investigations into the matter by the SEC and Commodity Futures Trading Commission. 
+ 
+ The two agencies plan to provide preliminary findings on what caused the stock plunge next week. 
+ 
+ Some observers have speculated that a "fat finger" error may have taken place, in which a trader enters an order for billions of shares rather than an intended order for millions. Gensler also said Tuesday in testimony that the agency's staff review "produced no evidence" indicating that a "fat finger" was the catalyst. 
+ 
+ The SEC and the CFTC have reached a preliminary agreement with securities exchanges to create a unified stock-by-stock circuit breaker for all exchanges -- including electronic exchanges -- to halt trades or slow down the pace of trading during a massive market downturn, according to people familiar with the discussions. Read about preliminary agreement. 
+ 
+ "With our children, we tell them to take a time-out when they act up," said Rep. Spencer Bachus, R-Ala. "I think we are establishing a procedure similar to that with our markets when they do lapse into what happened last Thursday." 
+ 
+ Both Schapiro and Gensler argued they have enough statutory authority to create circuit breakers across-the-board for exchanges. However, Gensler said legislation under consideration on Capitol Hill that would bring the over-the-counter derivatives market out of the dark onto transparent clearinghouses and exchanges would make it easier for the CFTC and SEC to determine the cause of future plunges. 
+ 
+ "The reform [Congress] is moving in with the over-the-counter derivatives market will give us a greater understanding," Gensler said. "This review will enable us to have information about equities and futures market but not the over-the-counter derivatives market which may have played a role as well." 
+ 
+ What didn't cause the plunge? 
+ 
+ Schapiro refuted speculation that an exceptionally large order in shares of Procter & Gamble Co. /quotes/zigman/238894/delayed/quotes/nls/pg PG -0.34% , part of the Dow Jones Industrial Average /quotes/zigman/627449/realtime DJIA -0.28% , helped trigger the market decline. She also rebutted assertions on Wall Street that the drop may have been caused by hackers or terrorist activities. 
+ 
+ "We have not identified any info consistent with computer hacker or terrorist activity," Schapiro said. 
+ 
+ Lawmakers also squabbled over whether high frequency trading contributed to the market plunge. Rep. Brad Sherman, D-Calif., indicated he might support a minute tax on high frequency trades in the U.S. to limit their activities in the U.S. 
+ 
+ "If most of the U.S. markets were insulated from high frequency trading, that's where most investors would want to go," Sherman said.

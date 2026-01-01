@@ -1,0 +1,3 @@
+Source: WikiQA
+
+There are three phases to the light-independent reactions, collectively called the Calvin cycle : carbon fixation, reduction reactions, and ribulose 1,5-bisphosphate (RuBP) regeneration.

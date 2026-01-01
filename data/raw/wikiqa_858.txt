@@ -1,0 +1,3 @@
+Source: WikiQA
+
+A Mars rover is an automated motor vehicle which propels itself across the surface of the planet Mars after landing .

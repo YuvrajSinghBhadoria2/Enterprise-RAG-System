@@ -1,0 +1,95 @@
+Source: Multi-News
+
+Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive. Flowing in every day, these data are added to the Wayback Machine after an embargo period. ||||| Footage of pecking, mammography-reading pigeons may seem hilarious, but it's serious business for scientists testing whether pigeons could be trainable observers of pathology and radiology breast cancer images. (Ed Wasserman and Victor Navarro/Department of Psychological and Brain Sciences, The University of Iowa) 
+ 
+ The human eye can easily recognize a familiar body part. But when it comes to interpreting the meaning of medical imagery, things aren’t that simple. In fact, radiologists take years to learn how to accomplish the task — and despite advances in technology, they sometimes get it wrong. 
+ 
+ [Why scientists got an alligator to inhale helium] 
+ 
+ But what happens when the radiologists are pigeons? It sounds weird, but it’s the basis of a study published Wednesday in PLOS ONE. 
+ 
+ Armed with a touchscreen-outfitted training chamber and 16 pigeons, scientists set out to see if birds could identify malignant and benign tissue in medical images with their beady little eyes. They trained pigeons to peck at a monitor after being presented with images from mammograms. When pigeons correctly pecked a touchscreen button that corresponded with the category of the image being shown, they were given food. 
+ 
+ [Squirrel gets ‘drunk’, causes hundreds of dollars in damage] 
+ 
+ Footage of pecking, mammography-reading pigeons may seem hilarious, but it’s serious business for Edward A. Wasserman, an experimental psychologist who specializes in comparing human cognition with that of other animals. Reading medical images, he said, “requires a kind of perceptual sophistication beyond mere words.” That’s where the pigeon steps in. “In some sense, the pigeon and the person are starting at the same place,” said Wasserman. “They’re equally naive.” 
+ 
+ That naiveté quickly faded as pigeons looked at benign and cancerous slides. In the first experiment, eight pigeons were presented with histology images from mammograms — four with normal images and four with images that had been color-corrected. Pigeons had a 50/50 chance of being correct — they were presented with half malignant slides, half benign ones. But within days, it became clear that they were really, really good at their task. After just nine days, the cohort was getting more than 80 percent of its classifications correct. 
+ 
+ By day 15, the success rate had risen to 85 percent. 
+ 
+ Wasserman began to worry that perhaps the pigeons had simply memorized the slides, so after 15 days he began to present them with rotated versions as well. Five days later, the pigeons moved on to “novel stimulus testing.” They were shown the original trial slides and additional, brand-new slides. They also viewed slides at different levels of magnification. 
+ 
+ [Kangaroo farts not as environmentally friendly as previously thought] 
+ 
+ And here’s where the power of pigeons as medical interpreters comes into play: The birds were really good at applying the knowledge from the familiar slides to examples of benign and cancerous tissue they’d never seen before. Their recognition of new slides was only a few percentage points below their success rate for familiar ones. The whole flock was even more effective as a group. 
+ 
+ In another experiment, pigeons developed roughly equal abilities to spot microcalcifications — small changes in breast tissue that can sometimes be the only sign of cancer. They weren’t as good at classifying suspicious masses in a third study, but neither are experienced radiologists at the same or a similar task. 
+ 
+ [100 years after the passenger pigeon's demise, American birds fight to survive] 
+ 
+ So should human radiologists watch their back for oncoming pigeons? Not exactly. Since similar studies on the effectiveness of humans at reading medical imagery don't exist, it’s not possible to compare the pigeons’ skills to those of humans. Robots are much more likely to replace human radiologists than pigeons — but the experiment could eventually help inform new technologies for image interpretation. 
+ 
+ It could also make future research cheaper, said Wasserman, who notes that pigeons “might be able to be an effective human stand-in” in additional experiments related to medical imagery. It’s not the first time pigeons have been suggested as human stand-ins for life-or-death situations — B.F. Skinner, the pioneer of behavioral psychology, trained the birds to guide rockets during World War II. 
+ 
+ Maybe the true moral of the mammogram-reading pigeons has more to do with respect than their real-world radiological prowess. “The pigeon has kind of a bum rap,” said Wasserman, who insists that the birds are interesting and challenging enough to merit serious study. After all, he said, “humans are not the only intelligent animals walking and swimming and flying on earth.” Or, for that matter, looking at mammograms. 
+ 
+ Erin Blakemore (@heroinebook) is a freelance journalist from Boulder, Colo. She is the author of "The Heroine’s Bookshelf" (Harper). 
+ 
+ Read More: 
+ 
+ How filthy is the International Space Station? An astrobiologist weighs in. 
+ 
+ New study shows that taste, like all reality, is but a fragile illusion 
+ 
+ The platypus is so weird that scientists thought the first specimen was a hoax 
+ 
+ Your cat might not really care about you, study suggests 
+ 
+ Extreme adventure: 1950s film shows beavers parachuting into Idaho backcountry ||||| There’s a long, colorful history of using pigeons in research, particularly in the behavioral and psychological sciences. Scientists have trained a flock of pigeons to be feathered pathologists, able to spot telltale signs of breast cancer in medical images nearly as well as their human counterparts. 
+ 
+ Advertisement 
+ 
+ As reported in paper published today in PLOS One, Richard Levenson and University of Iowa psychologist Edward Wasserman showed their chosen pigeons images of tissue samples that were either benign or malignant, and the birds would peck on blue or yellow rectangles on a touch-screen monitor to indicate their choice. When they chose correctly, they received a treat. John Bohannon at Science offers more details: 
+ 
+ [R]esearchers had 16 pigeons do all their learning once per day in a box with a computer screen without humans visible. Previously diagnosed histopathology slides from biopsies of breast tissue appeared on a computer touchscreen along with a yellow and a blue button. If the birds correctly identified cancer, they were automatically rewarded by the computer with a food pellet. If they were wrong, they got nothing. The computer not only randomized the order of images from benign or malignant tissue, but also whether yellow or blue signified “cancer” for any particular bird, to make sure the color itself didn’t introduce bias. And to ensure they weren’t just memorizing the slides, the birds were challenged with images of the same tissue with different magnifications and color. 
+ 
+ The pigeons didn’t do very well at first, making correct identifications roughly 50% of the time. But after two weeks of regular training, they were able to correctly identify benign or malignant tissue 85% of the time. That was just for individual pigeons. Next the researchers used a technique called “flock sourcing,” whereby the pigeons were grouped together and required to “vote” on their answers. The teamwork paid off: the pigeon pathologists upped their accuracy to an impressive 99%, comparable to trained humans. 
+ 
+ Why pigeons? It seems our feathered friends share similar properties of the visual system with us, so they are useful models for, say, helping toimprove medical imaging technology. Besides, “They are workaholics,” Wasserman told Discover’s D-Brief. “They work for peanuts. Well, not really, because peanuts are too big.” 
+ 
+ You probably won’t find pigeons replacing hospital pathologists the next time you go in for a mammogram, however. Like their human counterparts, the birds struggled to correctly identify images with differences in color and compression. And a human pathologist is able to make contextual decisions in a way even a flock of pigeons cannot. We could one day see a pigeon-based artificial neural network, however, capable of diagnosing these kinds of medical images. 
+ 
+ Advertisement 
+ 
+ References: 
+ 
+ Levenson, R.M. et al. (2015) “Pigons (columba livia) as trainable observers of pathology and radiology breast cancer images,” PLOS One 10(11): e0141357. 
+ 
+ Advertisement 
+ 
+ Sponsored 
+ 
+ Watanabe, S. et al. (1995) “Pigeons’ Discrimination of Paintings by Monet and Picasso,” Journal of the Experimental Analysis of Behavior, vol. 63, 1995, pp. 165-174. 
+ 
+ [Via Improbable Research] 
+ 
+ Advertisement ||||| Pathologists and radiologists spend years acquiring and refining their medically essential visual skills, so it is of considerable interest to understand how this process actually unfolds and what image features and properties are critical for accurate diagnostic performance. Key insights into human behavioral tasks can often be obtained by using appropriate animal models. We report here that pigeons (Columba livia)—which share many visual system properties with humans—can serve as promising surrogate observers of medical images, a capability not previously documented. The birds proved to have a remarkable ability to distinguish benign from malignant human breast histopathology after training with differential food reinforcement; even more importantly, the pigeons were able to generalize what they had learned when confronted with novel image sets. The birds’ histological accuracy, like that of humans, was modestly affected by the presence or absence of color as well as by degrees of image compression, but these impacts could be ameliorated with further training. Turning to radiology, the birds proved to be similarly capable of detecting cancer-relevant microcalcifications on mammogram images. However, when given a different (and for humans quite difficult) task—namely, classification of suspicious mammographic densities (masses)—the pigeons proved to be capable only of image memorization and were unable to successfully generalize when shown novel examples. The birds’ successes and difficulties suggest that pigeons are well-suited to help us better understand human medical image perception, and may also prove useful in performance assessment and development of medical imaging hardware, image processing, and image analysis tools. 
+ 
+ Copyright: © 2015 Levenson et al. This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited 
+ 
+ Introduction 
+ 
+ Pathologists and radiologists are confronted daily with perceptual challenges in the medical imaging domain. These individuals, even after years of education and training, may sometimes struggle to arrive at correct disease or risk classifications using the visual cues present on microscope slides or medical images (e.g., x-rays). There is considerable room for enhancing medical image perception and interpretation; this can occur not only via additional visual and verbal training [1–3], but also through ever-improving image acquisition technology, image processing and display. However, such innovations in medical imaging must be validated—using trained observers—in order to monitor quality and reliability. This process, while necessary, can be difficult, time-consuming and expensive. Automated computer-aided substitutes are available, but may fail to faithfully reflect human performance in many cases [4–6]. We describe here a potential alternative approach. 
+ 
+ Research over the past 50 years has revealed that pigeons can be prodigious discriminators of complex visual stimuli, and are able to detect or discriminate: foreground from background [7]; misshapen pharmaceutical capsules [8]; letters of the alphabet [9]; basic object categories such as cats, flowers, cars, and chairs [10]; identities and emotional expressions of human faces [11]; and even paintings by Monet vs. Picasso [12], among many other impressive feats. Pigeons’ visual memory is also outstanding, as they can recall more than 1,800 images [13]. Importantly, pigeons have demonstrated an ability to generalize their discrimination performance to novel objects or scenes. We are still a long way from knowing precisely how pigeons so successfully differentiate such complex and varied visual stimuli, but color, size, shape, texture, and configural cues all seem to participate [14–16]. Importantly, however, the anatomical (neural) pathways that are involved, including basal ganglia and pallial-striatal (cortical-striatal in mammals) synapses, appear to be functionally equivalent to those in humans [11]. 
+ 
+ Given the well-documented visual skills of pigeons, it seemed to us possible that they might also be trained to accurately distinguish medical images of clinical significance. We expected that, entirely without verbal instructions, operant conditioning procedures alone could prove sufficient for teaching the birds the intricate visual discrimination skills associated with diagnosing medically relevant images. The basic similarities between vision-system properties of humans and pigeons also suggested that, if pigeons were confronted with pathology and radiology study sets of increasing difficulty, then their task accuracy would track that achievable by domain-expert human observers. 
+ 
+ In these initial studies, we sought answers to four questions. First, could discrimination between benign and malignant pathology and radiology images be taught to pigeons—entirely without the benefit of verbal instructions generally provided to human observers? Second, could pigeons go beyond mere memorization and demonstrate generalization (i.e., perform accurately when confronted with related but novel stimuli)? Third, how would pigeons perform when given image discrimination tasks that are extremely difficult even for skilled human observers? And fourth, if the birds were successful, then could such skills have any practical utility? 
+ 
+ We provided food reinforcement to pigeon subjects, maintained just below their free-feeding weight, for correctly discriminating—via two distinctively colored response buttons—images of benign or malignant pathology specimens. Initial experiments focused on conventionally stained and digitally scanned breast pathology slides, starting with low (4×) and extending to medium (10×) and high (20×) levels of magnification. The pigeons’ successful mastery of these tasks encouraged us to investigate their ability to detect diagnostically important microcalcifications in mammograms (a challenging, yet tractable task) [17], and also to attempt a much more difficult task, namely to classify benign and malignant breast masses. Correctly identifying these challenging target masses is difficult even for trained radiologists [18]; and, in fact, it proved to lie at the limits of pigeons’ capabilities. 
+ 
+ Although pigeons are unlikely to be called upon to offer clinical diagnostic support, it does seem quite possible that their discriminative abilities may be turned to a useful purpose. The need for image quality assessment is a practical one that arises in both pathology and radiology domains. Even though pathologists still largely use optical microscopes for their clinical work, with the recent advent of digital pathology, diagnoses are increasingly being rendered directly from a computer screen rather than through a microscope [19–21]. Image acquisition and digital display technologies—and the accompanying software—are continuously being updated; each technical iteration must be scrutinized to determine the merits and drawbacks of new vs. existing techniques [22]. Such evaluations often require elaborate study designs and, crucially, the participation of one or more skilled observers [23]. However, finding available and affordable clinicians can be difficult at best [24]. 
+ 
+ This process is similar to what is done in evaluating medical image quality with model or mathematical (so-called “ideal”) observers. The purpose of these software-based tools is not to replicate human performance per se, but to help predict, for example, which manipulations of image quality (e.g., color fidelity or compression level) will impact human performance. However, such mathematical models address only narrow sets of questions, are hard to adapt quickly to new problems, and require their own validation vis a vis human performance [4–6]. Our research suggests that avian observers might be able to deliver relevant assessments of image diagnostic content and quality, as their performance is reproducible and can easily and quantitatively be tracked by modern conditioning techniques.

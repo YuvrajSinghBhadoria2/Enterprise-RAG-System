@@ -1,0 +1,3 @@
+Source: WikiQA
+
+When a ribosome finishes reading an mRNA molecule, these two subunits split apart.

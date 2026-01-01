@@ -1,0 +1,67 @@
+Source: Multi-News
+
+Earlier this week, Snapchat introduced Snap Map, an opt-in function that allows you to share your location with your friends on a map. Snapchat’s introduction video to Snap Map, seen above, focuses on sharing the location of posted Snaps to Our Story, which is public, and could be useful for, say, seeing a collection of Snaps from a particular event. 
+ 
+ But what Snapchat doesn’t tell you in the video, or in the app, is that if you aren’t careful, Snap Map will broadcast your exact location to anyone on your friends list every time you open the app. 
+ 
+ When you update Snapchat and get to the Snap Map walkthrough, as seen below, only three screens need to be clicked through to complete it. Though it mentions sharing your location, it’s vague on what that exactly means. Users might not understand that Snap is posting your location on Snap Map every time you open the app. Not just when you share Snaps to Our Story. 
+ 
+ When I first opened Snap Map, I saw the Bitmoji for one of my friends in a residential area. I presumed this was her home, and was able to zoom in close enough to estimate where she lived on that particular block. Then I called her. “This is a weird question,” I said, “but do you live at the intersection of X and Y? More particularly, one of these addresses?” I rattled off three house numbers on the street closest to where her Bitmoji appeared on Snap Map. One of them was correct. I’ve never been to her house. 
+ 
+ Turned out, she didn’t know she had Snap Map enabled, and didn’t know it was showing her location every time she opened the app. When she updated Snap and went through the Snap Map introduction, she believed Snap was giving the option to geotag her Snaps for Our Story, as shown in the promotional video. Instead, she had inadvertently broadcast where she lived to every one of her Snap contacts. 
+ 
+ She was understandably freaked out. “That’s so creepy!” she said. “I don’t know why anyone would use that. I understand if you’re at an event and checking in, but I wouldn’t want people to see where I am at all times.” 
+ 
+ She had inadvertently broadcast where she lived to every one of her Snap contacts 
+ 
+ Because Snap Map shows exactly where you are every time you open the app, there are a number of dangerous scenarios that could take place without a user even posting a Snap publicly. What if you’re at home alone, at night, and open the app to view Snaps posted by friends? What if you’re walking by yourself and get a ping that a friend sent you a Snap message, so you read it? What if you’re traveling and want to take a pic with a location-specific filter to post later on another platform? In all of these vulnerable situations, if you have Snap Map enabled, your location is immediately broadcast to some, or all of the people in your Snapchat friends list. 
+ 
+ People have been responding to the risks Snap Map poses to children who aren’t aware of the dangers location-sharing poses, but Snap Map is a threat for teens as well, whose parents might not know about Snap Map and how it works. And it can also be dangerous for adults, as the conversation with my friend proved. Not only is the consumer-facing information for Snap Map not detailed enough, many people often agree to updates and new settings on apps without looking at the specifics. 
+ 
+ A Snapchat representative told The Verge, “The safety of our community is very important to us and we want to make sure that all Snapchatters, parents, and educators have accurate information about how the Snap Map works.” However, the way Snap Map currently functions and is communicated to users provides opportunity for lurking, stalking, and other dangerous activities with real-life consequences. 
+ 
+ We spoke with a Snapchat representative about the specifics of how Snap Map works. Here are details we learned that aren’t communicated through Snapchat’s video and Snap Map walkthrough: 
+ 
+ If you are choosing to share your location on the Map, your location is updated every time the Snapchat app is opened. 
+ 
+ If a Snapchatter chooses to share their location with all of their friends on Snapchat, the app will remind them of that choice periodically to make sure they are still comfortable with this. 
+ 
+ Only mutual friends can see each other on the Map. 
+ 
+ Snapchat will delete precise location data after a short period of time. (This period of time was not specified.) Some more general location data may be retained a little longer (this time was also not specified), but the company says that is also subject to regular deletion. 
+ 
+ If you tap on your friend, you will see when their location was updated (i.e., 1 hour ago, 2 hours ago). Their location reflects where they last opened Snapchat. 
+ 
+ A friend’s location will remain on the Map for up to 8 hours if they do not open the app again, causing their location to update. If more than 8 hours has passed and a Snapchatter has not opened the app, their location will disappear from the Map entirely. 
+ 
+ If you want to disable Snap Map, select “Ghost Mode” upon Snapchat’s initial walkthrough. If you’ve already enabled location sharing for Snap Map, tap the settings gear in the top right while viewing the Map, and select Ghost Mode from there. ||||| We've built a whole new way to explore the world! See what's happening, find your friends, and get inspired to go on an adventure! 
+ 
+ It's easy to get started — just pinch to zoom out and view the Map! You decide if you want to share your location with friends, or simply keep it to yourself with Ghost Mode. 
+ 
+ If your friends are sharing their location with you, their Actionmoji will appear on the Map. Actionmojis only update when you open Snapchat. 
+ 
+ We hope you enjoy the new Map as much as we do! 
+ 
+ Happy Snapping! 
+ 
+ Team Snap ||||| TAMPA, Fla. (WFTS) - Snapchat introduced a new feature called "Snap Map." Some people are excited about the new feature but some parents are worried about its impact on privacy. 
+ 
+ The new feature allows people to see where their friends are snapping from, but Snapchat says users can turn it off so that no one knows where they are. The company also said users can limit the feature so that only their friends know where they are. 
+ 
+ "I think first and foremost parents need to be aware of it," Antony Francis with Head of Lettuce Media said. 
+ 
+ Francis said parents should continue to have conversations with their children as technology advances and as apps add new features. 
+ 
+ "I think they’ll like it if their kids are using it properly, if they’re restricting it just to their friends ... younger kids, there is probably no good reason for them to be using it," Francis said. 
+ 
+ Francis said parents should ask their kids to teach them how to use it. 
+ 
+ "It's OK to pretend that you don’t understand, even if you might understand a little bit, get them to explain it to you to make sure they understand," Francis said. 
+ 
+ Francis said there are a number of positives with the new feature. He said you can check where people are hanging out and that may be helpful if you are new to town or are looking for something to do. 
+ 
+ "They do have heat maps so you can see where the hot spots are," Francis said. ||||| Police forces have raised child safety concerns about a new Snapchat feature that reveals users' locations amid fears it could be used for stalking. 
+ 
+ Parents have been warned to turn off "Snap Maps" on their children's phones after Snapchat, which is wildly popular among teenagers, introduced the location-sharing mode this week. 
+ 
+ The feature displays a map of nearby friends, showing their latest location gathered using a smartphone's GPS sensor. Users of the app can also search for locations such as individual schools, with the app displaying public photos and videos sent by students.

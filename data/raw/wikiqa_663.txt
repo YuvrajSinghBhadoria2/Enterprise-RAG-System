@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Remote subsea wells may also be connected to a platform by flow lines and by umbilical connections.

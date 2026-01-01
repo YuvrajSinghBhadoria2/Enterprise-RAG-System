@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Rocket engines as a group have the highest exhaust velocities, are by far the lightest, but are the least propellant efficient of all types of jet engines.

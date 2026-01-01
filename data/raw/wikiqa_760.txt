@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Ribosomes can bind to an mRNA chain and use it as a template for determining the correct sequence of amino acids in a particular protein.

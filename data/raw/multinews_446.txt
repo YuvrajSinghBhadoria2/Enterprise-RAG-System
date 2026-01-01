@@ -1,0 +1,59 @@
+Source: Multi-News
+
+I sort-of expected the just-released trailer for Joaquin Phoenix’s Crazy Lost Year documentary “I’m Still Here” to clear things up a bit. Is the film, directed by Phoenix’s brother-in-law Casey Affleck, a mockumentary? Did Phoenix really quit Hollywood to become a rapper? Was that beyond-awkward David Letterman interview a stunt? And, most importantly, did he ever shave that Civil War-soldier beard that I hear is now home to endangered baby whooping cranes? The trailer’s just one minute long, but it’s a whirling dervish of confusion. “I’m Still Here” still doesn’t have a Baltimore release date, so in the meantime, let’s bask in the trailer’s zany glow. 
+ 
+ Phoenix is rising. I’m just not sure where from — or where he’s going next. 
+ 
+ •••• Half of the trailer contains a strange philosophical monologue from someone unidentified who’s counseling Phoenix. Or something. “That’s you,” the philosopher says. “Drops of water. And you’re on top of the mountain of success. But you start sliding down the mountain and you think, ‘Wait a minute. I’m a mountaintop water drop.” Uh-huh. This is why I skipped so many intro to philosophy classes in college. That, and because all the Power Point lectures were saved on the class website. 
+ 
+ •••• The most typical shot in the trailer: anguish. The holding-your-hands-in-your -unkempt-hair variety. These scenes usually take place in what appear to be upscale hotel rooms. 
+ 
+ •••• Looks like Sean “Diddy” Combs was on hand to give some of his extensive rapping expertise! Or give Phoenix a much-needed hug. Either/or, really. 
+ 
+ •••• If there’s any stronger evidence that you’ve gone loco, it’s a mini-beer belly. 
+ 
+ •••• Could Phoenix have gone mad from the surely lethal combination of strobe lights, douchey clubs and haphazard stage-diving? 
+ 
+ •••• What’s this? An uplifting visit to a church?! I feel a tear coming on. ||||| Joaquin Phoenix (Mario Anzuoni / Reuters) A new trailer that hit the Internet last week proves it: The well-respected actor who grew a beard, took up hip-hop, and mumbled through a Letterman appearance was pulling one over on the public. 
+ 
+ Joaquin Phoenix has always been a stellar actor. But the nature of his talent has never been more apparent than during the last two years when, beginning with his legendary interview with David Letterman, the clean-shaven two-time Oscar nominee committed himself wholly to making every public appearance a painstaking portrait of an emotional breakdown. Give Phoenix credit: Journalists everywhere (myself included) actually pondered whether his shaggy beard, and his preposterous foray into hip-hop, was something more than a practical joke. 
+ 
+ Now comes the trailer for his forthcoming documentary, I’m Still Here: The Lost Year of Joaquin, which hit the Internet last week. It’s the best evidence yet that the actor—with the help of his brother-in-law Casey Affleck—was pulling a full-on Andy Kaufman on the American public. In the trailer, we see Phoenix playing a reluctant celebrity—despondent in the back of a limo, alone under the spotlight in a vacant theater, bare-chested in profile, all while some craggy-voiced mystic intones enigmatic metaphors about success. “Life’s a journey that goes round and round,” the mystic says, “and the end is closest to the beginning.” 
+ 
+ Shepard Fairey said the new movie convinced him that Phoenix is “definitely a brilliant and troubled mystery.” 
+ 
+ Whatever that means. Clearly, ambiguity is what drives this endeavor. But the premise is so ridiculous that any serious consideration is rendered moot, almost immediately. 
+ 
+ As if signaling the final stretch of this marathon, artist Shepard Fairey released portraits of Phoenix-in-crisis that started turning up around New York, Los Angeles, San Francisco, Boston, and other cities. They are black-and-white illustrations of Phoenix in profile, dark sunglasses in place, his hair a nest of despair. Fairey last weekend told The Daily Beast the new movie convinced him that Phoenix is “definitely a brilliant and troubled mystery.” 
+ 
+ “I think both my image and the film inspire audience projection in the vein of a Rorschach test,” Fairey wrote in an email. “The audience reaction supplements, and is an important part of, the film. The psyche of the protagonist is very much intertwined with the psyche of the audience." Meaning that what we think of Phoenix and his shenanigans is a reflection of our own experience, and not the actor. But even that is a pretty high-minded view of what everyone has suspected from the get-go was an interminable hoax. 
+ 
+ Joaquin Phoenix street-art image by Shepard Fairey. (Perhaps, this is a good place to mention that Affleck and Phoenix have matching circle tattoos that mean literally “nothing.”) 
+ 
+ The movie, which opens Sept. 10, marks Affleck’s directorial debut and was filmed during Phoenix’s 2008-2009 press tour for his last film, Two Lovers, a critically acclaimed indie drama co-starring Gwyneth Paltrow and Vinessa Shaw. The instant this all started, Affleck stood stone-faced next to Phoenix, tellingly, the night before Phoenix’s birthday, on a red carpet, during an impromptu interview with the syndicated celebrity tabloid show Extra. 
+ 
+ “I want to take this opportunity,” Phoenix half-mumbled to reporter Jerry Penacoli, “to give you an exclusive. This will be my last performance as an actor. I’m not doing films anymore.” 
+ 
+ When Penacoli laughed in his face, Phoenix looked wounded, and in a small voice asked, “Why are you laughing at me?” Then he stormed off. It was a moment rife with melodrama, casting Phoenix as the misunderstood artist caught in the crossfire of vapid celebrity journalism. ||||| Web wide crawl with initial seedlist and crawler configuration from March 2011. This uses the new HQ software for distributed crawling by Kenji Nagahashi. 
+ 
+ What’s in the data set: 
+ 
+ 
+ 
+ Crawl start date: 09 March, 2011 
+ 
+ Crawl end date: 23 December, 2011 
+ 
+ Number of captures: 2,713,676,341 
+ 
+ Number of unique URLs: 2,273,840,159 
+ 
+ Number of hosts: 29,032,069 
+ 
+ The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date. We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives. The scope of the crawl was not limited except for a few manually excluded sites. 
+ 
+ However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it. For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them). We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed. 
+ 
+ We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with. We have also done some further analysis of the content. 
+ 
+ If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it. We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered.

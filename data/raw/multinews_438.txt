@@ -1,0 +1,39 @@
+Source: Multi-News
+
+These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.The goal is to fix all broken links on the web . Crawls of supported "No More 404" sites. ||||| THE CONTENDERS | Ben Carson struggled to sound like a convincing commander-in-chief with an answer to how he would deal with the war on terrorism. After using most of his time to talk about how the U.S. military has been decimated by cuts, particularly in recent years because of sequestration, he said simply: “I would shore up our military first because if you don’t get the military right nothing else is going to work.” 
+ 
+ He didn’t sound like a politician used to responding to tough questions with time-limited responses. 
+ 
+ Twitter took notice: 
+ 
+ Ben Carson sounds like that guy at a wedding who wasn't expecting to be asked to make a speech and mumbles into his napkin — nicky (@wetherelln) August 7, 2015 
+ 
+ Carson seemed on firmer footing when he was able to do freestyle criticism of Hillary Clinton. He called her “the epitome of the secular progressive movement, and she counts on the fact that the people are not informed.” That’s a line that hits all the right notes with the base. 
+ 
+ He also was comfortable responding when asked how he would improve race relations. (He was the only African American on the stage, and was the only candidate asked that question.) Instead of laying out a path to racial harmony, he tossed out feel-good slogans such as, “We are the United States of America, not the divided states.” 
+ 
+ He used his closing statement to talk about what makes him unique among a stage full of politicians. 
+ 
+ “I’m the only one to separate Siamese twins. I’m the only one to operate on babies while they were still in their mother’s womb. The only one to take out half a brain, although you would think if you got to Washington that some else had beaten me to it,” he said, joining the audience and the stage in laughter. 
+ 
+ Those qualities have nothing to do with being president, but at least one Carson fan was impressed: ||||| Republicans are taking the stage in Cleveland for the first candidates’ debates of the 2016 election cycle. The main primetime debate is at 9 p.m. ET, featuring the top 10 candidates — as judged by poll averages. Ahead of that, at 5 p.m., is a debate for the seven candidates who didn’t make the cut. Here is our live blog. ||||| The seed for Wide00014 was: 
+ 
+ - Slash pages from every domain on the web: 
+ 
+ 
+ 
+ 
+ 
+ -- a ranking of all URLs that have more than one incoming inter-domain link (rank was determined by number of incoming links using Wide00012 inter domain links) 
+ 
+ 
+ 
+ -- up to a maximum of 100 most highly ranked URLs per domain 
+ 
+ - Top ranked pages (up to a max of 100) from every linked-to domain using the Wide00012 inter-domain navigational link graph ||||| The Republican candidates repeated their opposition to the nuclear agreement reached with Iran by President Obama and other world leaders in part on the concern that Iran would profit from the lifting of sanctions. “We’re giving them $150 billion plus,” Donald J. Trump said. 
+ 
+ The world powers are not giving Iran money, but by easing or terminating sanctions they would allow Iran to have access to many billions of dollars of its own money that have been frozen in overseas accounts. Much of the money came from Iranian sales of oil and other goods and has been frozen in China, India, South Korea and other countries for years. 
+ 
+ Whether it would be as high as $150 billion is unknown. As Rick Gladstone reported in The Times, the Treasury Department has estimated that Iran has between $100 billion and $125 billion in foreign exchange assets worldwide, but that its usable liquid assets after sanctions relief would be much lower, more like $50 billion. Treasury Secretary Jacob J. Lew told Congress that after Iran’s financial obligations, it would have roughly $56 billion left. 
+ 
+ The governor of Iran’s central bank said last week that of roughly $77 billion held abroad, only $29 billion would be usable because the rest had already been committed to petrochemical investments or as collateral for Chinese-financed development projects. But critics said those estimates are too low and an attempt to shape the political debate.

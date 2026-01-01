@@ -1,0 +1,3 @@
+Source: WikiQA
+
+This acceleration experienced by an object is due to the vector sum of non-gravitational forces acting on an object free to move.

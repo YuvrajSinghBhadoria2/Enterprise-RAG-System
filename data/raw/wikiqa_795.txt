@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Starting with 1, there are square numbers up to and including , where the expression represents the floor of the number .

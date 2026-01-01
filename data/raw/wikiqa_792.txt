@@ -1,0 +1,3 @@
+Source: WikiQA
+
+For a non-negative integer , the th square number is , with being the zeroth square.

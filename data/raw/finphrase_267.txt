@@ -1,0 +1,3 @@
+Source: FinancialPhrasebank
+
+A data processing unit collects the data , calculates RVR values and provides the data to users via various interfaces .

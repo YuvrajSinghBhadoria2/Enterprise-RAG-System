@@ -1,0 +1,148 @@
+Source: Multi-News
+
+Flipboard is a beautiful iPad app that looks at the content your friends are sharing on Twitter and Facebook and reformats it into a digital, interactive magazine. 
+ 
+ The consumer reaction to the app since its launch last week has been nothing short of completely nuts. 
+ 
+ Click here for a quick walk-through → 
+ 
+ How nuts? Cofounder and CEO Mike McCue tells us that before launching Flipboard, he made his engineers hook up double the amount of servers they thought would be necessary. After the launch, Flipboard maxed out that server capacity in a shocking 20 minutes. Since then, Mike says "a significant percentage of the iPad population" has already downloaded the app. 
+ 
+ We sat with Mike for an extended interview, which we've published below. We covered what it was like during the app's crazy first days, why Mike raised so much money so early, and what it's like working with Apple and Kleiner Perkins. 
+ 
+ The most interesting thing we learned is how Flipboard plans to make money. Flipboard plans to actually show more of publishers' content, advertising against it, and then share revenues. Mike says it will increase publishers' digital revenues "by a factor of ten from what they're currently doing with banner ads." 
+ 
+ Here are some more highlights: 
+ 
+ Is Flipboard stealing content? Mike says, "There have been probably about 130 publishers that have reached out to us in the last 4 days or so, and unanimously the reaction has been very positive." 
+ 
+ Flipboard raised $10 million in its first round so it won't "be forced into a situation where we have to break the glass of the nearest business model just to survive." 
+ 
+ "We only have 19 people in the company now, I'll hire another 5 or 10 or something, but were going to keep things small." 
+ 
+ Flipboard's launch was as chaotic as it seemed from the outside. It took 20 minutes to max out Flipboard's servers. The company actually asked Apple NOT to feature Flipboard in the iTunes App Store. 
+ 
+ Contrary to reports, John Doerr hasn't checked-out at blue chip VC firm Kleiner Perkins, says Mike. "I can still call him up and he would instantly respond. I can ask him for a meeting with basically anyone in the world, and he'd deliver. It's just amazing." 
+ 
+ Here's the whole Q&A;: 
+ 
+ SAI: Where'd you get the idea for Flipboard?Mike McCue: I left Tellme, my last company a year ago. I sold the company to Microsoft and about a year ago I had completed the integration, I felt like it was a great time to move on. I did a bunch of traveling. I'd be on the plane a lot, and of course all the time I'd buy magazines on the newsstand and flip through them on the plane. And it occurred to me on one of these flights - "Why is it that the Internet looks so ugly and the magazines look so beautiful? Wouldn't it be great if you could take the power of the Internet and the beauty of these magazines and fuse them together somehow?" 
+ 
+ The tablet hadn't happened then, but I started asking myself, "I wonder if I could design a Web-like experience that was sort of rooted in the timeless principles of print, and bring the beautiful photography, the really well done typography, layout and graphic design but have that same sort of power and richness and dynamic of the web." 
+ 
+ How did you join up with your cofounder? 
+ 
+ As I thought about this more, I decided to hire an engineer to help me prototype some of these ideas. I hired this guy Evan Doll from Apple who was on the original iPhone team. He and I started working together and it was pretty clear to me when I met him, that he was going to be more than an engineer to work with, that he'd be the kind of person I could actually start a company with. He has the judgment, the sensibility and the holistic thinking that's needed to be a founder, not just an engineer. 
+ 
+ So as the idea developed, about 6 months after doing this kind of exploration where we'd meet continually with a whole bunch of different people, industry thinkers and stuff, it became clear that we could actually start a company around this and we could build the world's first social magazine. 
+ 
+ I was really excited by the idea that people were sharing information now and discovering information in a totally new way on the internet via Twitter and Facebook, yet that experience was pretty clunk and just lots of bit.ly links. I thought, "wow maybe we could actually build this sort of social magazine idea where we could make it far easier to see the content that people are sharing with you, kind of scan through it flip through it and then when you actually view the content." 
+ 
+ Were you always going to build an iPad app? 
+ 
+ We were originally thinking we'd bring this to the web, but in thinking about this, it was clear that a tablet—and the iPad rumors started to pick up pace—it was pretty clear that betting on a tablet, and form factor, would be the idea. So we started designing for that, hoping and praying that something would actually happen there. And lo and behold it did. And then when the iPad came out we really just bet the whole company on it. So we designed something really specifically for the iPad and that really captured this idea.When Steve Jobs unveiled the iPad back in January it must have been a pretty big day for the company. Oh it was huge. We called it "iPad Day." It was like a holiday in our company. We were joking with people in our family, like, "happy iPad day". It was a very big deal for us. I was waiting, as the announcement came out, I was just really on the edge of my seat, like what's it going to be? What's the operating system? Can we build something here? Will it have the capability of doing what we want? Will it already have something that we build like we've been thinking already installed in it? So it was really great when it came out, like wow, this is going to be perfect for us. So we downloaded the SDK [software development kit for iPad app developers] that day and started coding that moment. And ever since we've been building it.Did you get a curveball that day at all? Was it what you were expecting? It was pretty much what I was expecting. I was thinking there may have been something more with magazines on that day. It turned out that like Time didn't really do anything until the iPad actually shipped and Popular Science came out later and stuff, so I think I was a little puzzled that there wasn't more magazine type material on the iPad when it launched. But that happened later on when it actually shipped. But no real curveballs though, it was a very exciting day, I was like wow this is going to be amazing. And I really believed that it was going to sell a lot of units, I still think there were some people who were like, wow, you know what if it doesn't really sell well? And there were some questions. But I really believed that it was going to be a hot selling product and it's nice to see that panning out.Evan, having come from Apple, probably had a good idea the iPad was coming, right? Well I don't know, he was very careful, and I was really specific: I wanted no knowledge from Apple to enter into our company. But we had some backup plans, like if the tablet didn't happen, we probably could do an iPhone version, and we were also thinking about an HTML5 version. 
+ 
+ But I really wanted to see the tablet pan out. It would be hard to launch a product like this on those other platforms. It might be asking users to depart too far from what they're used to. What the iPad does is it opens people's minds to a new way of doing things. They're actually thirsting for it. 
+ 
+ When Flipboard launched, demand was so high for the app that you guys had to limit user-registrations. What was it like watching that from the inside? 
+ 
+ It was like nothing I've ever seen before. We thought it would take a while for people to understand the concept and get used to it and download it. I didn't realize that it would be explosive - that within seconds people would be downloading it by the thousands. 
+ 
+ The other thing I didn't anticipate was the way that people used the product. They use it far more intensely than I thought they would. When people started downloading it they were flipping back to 2009 on their Facebook pages. It was crazy! They just sat there just flipping. Flipping, flipping, flipping, flipping. That stuff takes server time. We have to build pages for every few hundred posts that we go out and get. 
+ 
+ You ever see that UPS commercial where they go live with a website and there was this group standing around and nothing happens as they're looking at a counter, and then it goes up to 1 and they're like "YAY", and then 10 and they're like "YEAHH!", and then it climbs up to like thousands and they're like "Uh-Oh", it was totally like that man, it was exactly like that commercial. 
+ 
+ You can't see the download counts in real time, because Apple doesn't expose that, but you can see the people that are signing on to the network, and it was just unbelievable. Immediately we knew that we were going to have an issue. 
+ 
+ So did you panic? 
+ 
+ Luckily we had put in a governor in the system. Having run Tellme before, one of the things I learned about running a big network, is it's one thing to have some people not be able to get on the way they want to get on, but as long as people who are on the network are having a good experience you're totally cool. So I wanted a way to restrict new users from coming on. We built in a very crude way of doing that. I didn't expect or anticipate to have to use it but basically within the first 15 minutes or so. 
+ 
+ 20 minutes in, I gave the order. We needed to stop new users coming in, we needed to stabilize, and we needed to allow the users who are in to have a good experience. Then we needed to figure out a way to create an invite system that would allow people on in an orderly fashion. What we needed to do was work with Apple to very quickly get a new build out her that would create this nice, easy to use invite system, which has only been done one other time on the app sore as far as I know. 
+ 
+ Are things smoothing out yet? 
+ 
+ We got that new build out there and then everything settled down, and people became far more happy. Basically we've been sending out wave after wave of invites. We're actually now accelerating those invites. We've been testing the servers like crazy. We've been optimizing all sorts of things. There's going to be a new build that will come out that well do offline and caching support and we'll make even more efficient use of the network. 
+ 
+ What was it like watching the servers roast? Well I mean it went form zero to maximum utilization with in a matter of minutes. [Before the launch] I specifically asked to deploy extra servers. Tey told me how many servers we had to deploy and I said, "ok I want to double that"—I just want to be safe. We maxed them out within a matter of minutes.How many times has Flipboard been downloaded? All I can say is it's a significant percentage of the iPad population.Did Apple feature the app at all? No, no. In fact we asked them not to. I literally called them up that night, and I said you know, please do not feature us. It was really funny because when I talked to these guys at Apple, I told them we just can't get people on fast enough, and they're like well join the club: we can't make iPads fast enough. We're clearly on to something here. Flipboard pulls in a lot of text and a lot of photos from online publishers. What do you say to people who say you're stealing content? Our whole goal is to basically feature publishers content and get people to click over to that content on the website. We don't display the full article. We basically display enough to get people to click over to that "read on web" button and then read the rest of the article on the web. We try to load that webpage in the background so that when you click on the "read on web" button, it's instantly there. 
+ 
+ I don't think a lot of people click through a lot of these links when you see them in your Twitter stream. But when you see them on Flipboard I think you're going to find that there is going to be a higher percentage of people clicking on these links. I also think you're going to see a higher percentage of people sharing these links. So I think it benefits publishers. 
+ 
+ We use RSS as a guideline or a proxy for how much of an excerpt the particular publisher is willing to show. We're basically the same as like Pulse or any other RSS reader in terms of the amount of content we're showing. In fact we actually don't, Pulse would even show more of an article than we will, because many RSS feeds are actually the entire articles, we don't do that. We bring people right to the websites. 
+ 
+ Have any publishers complained? 
+ 
+ Actually, there have been probably about 130 publishers that have reached out to us in the last 4 days or so, and unanimously the reaction has been very positive. People want to work with us, partner with us, do Flipboard-optimized content and feature their content in our sections. It's been universally positive. These publishers basically include all the big guys. If any publishers are at all concerned about the way were using Readability to get the content, or if they feel were showing too much content, it's very easy for us in a server file to dial that down and do something that they're more comfortable with. 
+ 
+ Flipboard does represent kind of a new approach, there's no question about it. I can understand why there might be questions about something new that's different, but we've really tried to do it from the point of view of the publishers, and we believe that we can create an environments that's actually really great for the publishers, really great for the readers, and also really great for the advertisers. 
+ 
+ When we build our business model here, it's not going to be on the backs of the publishers, it will be with the publishers—you know we're going to make money with them not off of them. You'll see that play out as we continue to go forward with the business model.So the plan is to actually show more of publishers' content, advertising against it, and then share revenues? Absolutely, absolutely. We think we can bring a totally new form of advertising to the table that will allow publishers to monetize their content by a factor of ten from what they're currently doing with banner ads.If you look at web pages today, they basically are battlegrounds between content and ads. The ads are competing for the readers interest, the content's competing for the readers interest. It's a terrible experience, especially when you compare it to a magazine. It hurts the publisher. It hurts the advertiser. It hurts the reader. 
+ 
+ There's the opportunity to approach this from a design point of view. If we lay out the content in a way that's paginated, that has a clear separation for advertising and content like what you see in magazines, if you figure out how to deliver all these things faster so you're not waiting for things to load - you're not waiting for a page to load because it has all these ads on it - and you follow some of the basic old world magazine designing principles and apply those to Internet content, he advertising business model works. 
+ 
+ Take Vogue magazine, for example. They have a circulation of 1.2 million people and they make $300 million in advertising. That's awesome. But you can't do that in the web. Ask someone who reads Vogue: "Imagine I have two different copies of Vogue magazines, they're the same issue except one has ads and the other one doesn't. Which one are you going to pay $5 for?" Everybody who reads Vogue wants the one with the ads. But if you asked them the same thing about the website they all say they don't want the ads. So what that says to me is that this is a design problem. The economics have always been there, and I think they can be there. So I think there's a tremendous opportunity here. Publishers are excited about it. We've captured their imagination and they're actively working with us now to dial up the content and actually present more of it - faster, cached, paginated, beautifully laid out just like a magazine - to end up actually making 10x the revenue from advertising they are on their websites today.You took more than $10 million in your first round of funding for Flipboard. That's a lot for a first round, isn't it? I want to have plenty of runway so that I can build the business model and the product the way that it needs to be built and not be forced into a situation where we have to break the glass of the nearest business model just to survive. When I was at Tellme, we built a great company but it took ten years to do it. It was incredibly hard because we built the company around this really awesome consumer vision, but when the economy fell off a cliff, we basically needed to find an immediate business model and put the consumer stuff on hold for a bit, so that we could survive. 
+ 
+ That basically took us off our consumer gameplan for like 7 or 8 years. Ultimately we were able to go back onto that gameplan after we were cash positive we were able to start to build the new mobile search capabilities where you were able to say what you want and get it, and that ultimately was what attracted Microsoft and that led to the acquisition. 
+ 
+ But with this company, that's a mistake I want to avoid. I want to make sure there's plenty of cash so that we can build this consumer vision out, and really do it right, and not have our hands forced because we don't have enough money. So we only have 19 people in the company now, I'll hire another 5 or 10 or something, but were going to keep things small. 
+ 
+ Back in the day Flipboard investor Kleiner Perkins was the premier VC firm in IT, having backed Amazon and Google. But is it still a top venture firm now that John Doerr moved to green tech and Vinod Khosla left to start his own firm? There's been some questions in the startup community. 
+ 
+ I read that piece actually. I believe that Kleiner Perkins is the type of VC firm you go to if you're an entrepreneur that wants to change the world. What Kleiner does is really quite unique amongst all the other VC firms; they think and act huge. They have the courage to build a company that will change the world. They have the staying power and the wisdom and the contacts and the sort of sheer tenacity that it takes to actually do that. When people ask me what it's like to work with KP, I always talk about how, they are the kind of the company that if you want to build something that is a company as vast as Google or Amazon, basically, KP is a must. 
+ 
+ Now there are definitely other VCs that are good out there. I raised money, for example, from Index. I also raised money from Benchmark when I was at Tellme. But Kleiner, there's something special about them in that that is a firm that exists to change the world and they don't mess around with small stuff. 
+ 
+ I actually believe that the investments that they've made in terms of things like the iFund where if you're a startup and you want to build a really great new Internet company that's going to leverage what apple is doing with mobile, Kleiner is it, they are it. Steve jobs is extremely excited about what KP has done there. Apple is very supportive of companies that are in the iFund. I've seen this myself in action, it's very very impressive. 
+ 
+ John Doerr, by the way, has never been on my board - he's not on my board here at Flipboard and he wasn't on the board at Tellme - but I can still call him up and he would instantly respond and I can ask him for a meeting with basically anyone in the world, and he'd deliver. It's just amazing. He's one of these guys that when you talk to, he kind of inspires you. You come away with the impression that life is short and you need to do something important. That's the way he thinks, and acts. 
+ 
+ Kleiner is as relevant as they've ever been. It sounds like it's sort of other competitors that are just trying to position themselves vis-à-vis Kleiner. But I really think it's an incredible firm, always has been, well continue to be so, they're just pure excellence, I'm just really impressed with those guys. What's next? Is Flipboard coming to Android? The iPhone? I certainly think there are other platforms in the future. The main thing is to focus on the experience we have now. We've got to get everybody on. We're going to come out with some rapid new iterations of this experience and I think you'll see the iPad continue to be our flagship experience. At some point it will become clear when and how we should move to the iPhone or the web, but we're a small shop and I'm going to keep things small. I want to make sure we continue to build something here that's going to help publishers and it's going to help advertisers, and it's going to be a completely new kind of browsing experience for people who are using a tablet and are using the Internet. So that's going to take a lot of focus, a lot of energy and that's what we'll be doing for the foreseeable future. ||||| Major publishers have slowly been rolling out their visions of how an analog magazine should look and work in a digital world full of iPads. Flipboard, on the other hand, is a new type of digital publication for the iPad that wants to meld your news and social worlds into a sort of personalized magazine. 
+ 
+ Flipboard collects news, Twitter updates, and Facebook posts into a unique, animated magazine-style layout. Some preset news feeds and a Twitter "daily photo" stream introduce you to the concept, and you are prompted to add your Twitter and Facebook credentials so you stay on top of your own social networks and share interesting things you find with your friends. 
+ 
+ You can also choose from a handful of built-in news sources like the Wall Street Journal and GigaOM's tech blogs. Flipboard displays sources as tiles on a magazine-like table of contents page. When you tap a source, fluid animations will roll out stories, headlines, and photos across the page to remind you that this is most certainly not your grandparent's magazine. 
+ 
+ If you run to try out Flipboard right away Wednesday morning, you should know that quite a lot of buzz is swirling around it, so some features may stutter or hang. This is an unfortunate reality of Web services that get temporarily overwhelmed, but things should settle down soon. 
+ 
+ Flipboard is available for free now in the App Store and requires an iPad running iOS 3.2 or later. ||||| Magazines aren't dead; they're just getting reinvented. Flipboard turns Facebook and Twitter feeds into attractive, magazine-style pages for beach-friendly consumption. 
+ 
+ Facebook and Twitter feeds have never looked better than with Flipboard for iPad. (Credit: Flipboard) 
+ 
+ iPad app Flipboard calls itself a "social magazine," a way to browse Facebook and Twitter content with the same breezy effortlessness you'd browse the pages of a favorite periodical. 
+ 
+ I call it cool. 
+ 
+ 
+ 
+ Flipboard reminds me of Blogshelf, the awesome iPad app that gives blogs and RSS feeds an iBooks-style makeover. 
+ 
+ Here, however, the app pulls from your Facebook and Twitter accounts, turning friends' updates into nicely formatted, perusal-friendly pages. (Shades of Sobees, which works a similar kind of magic--though only for Facebook.) 
+ 
+ 
+ 
+ Flipboard also delivers your choice of a couple dozen aggregated content sections (news, finance, music, tech, etc.) selected by Flipboard's creators. It's perhaps the best way I've found to read The Onion on my iPad. 
+ 
+ 
+ 
+ You can tap any section to see headlines, story blurbs, and photos mashed up in an attractive, magazine-style format. Swipe to flip to the next page, or tap a story to read it--an abbreviated version of it, anyway. As with Blogshelf, you often have to "tap through" to the original Web page to access the full content. 
+ 
+ 
+ 
+ I can live with that, but Flipboard needs to fix a few other areas. For starters, you're currently limited to just nine sections. Choosing a new one means deleting something else--and the Facebook and Twitter sections can't be removed, even if you're not a social-media maven. 
+ 
+ There's no offline option, either, so if you're not currently connected via Wi-Fi or 3G, no soup for you. 
+ 
+ The biggest wrinkle? Flipboard has quickly turned into a victim of its own success. For the past several hours I've been unable to link my Facebook and Twitter accounts; the app is suffering from "capacity overload." 
+ 
+ That's a temporary glitch, no doubt, and even without that stuff, Flipboard is worth a look. For me it's already joined the likes of Blogshelf, Early Edition, and PressReader as one of my favorite ways to consume content on my iPad. 
+ 
+ 
+ 
+ Want to know more? Check out this morning's post on the Digital Media blog: Meet Flipboard: Mike McCue's stealth "social magazine." You can also watch the company's promo video below--though see if you don't agree that the pitchman comes across as overly smug. Yeah, it's a cool app--we get it! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

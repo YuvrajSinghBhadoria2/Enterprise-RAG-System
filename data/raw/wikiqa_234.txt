@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Some units are converted into production rigs, meaning they switch from drilling for oil to capturing oil once it's found.

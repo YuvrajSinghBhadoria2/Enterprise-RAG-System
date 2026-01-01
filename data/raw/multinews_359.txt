@@ -1,0 +1,101 @@
+Source: Multi-News
+
+Microscopic organisms found in dirt collected from a hike through Nova Scotia mean we're going to have to add another branch to the tree of life. 
+ 
+ The strange organisms simply don't fit into the plant kingdom, the animal kingdom, or any other kingdom we've classified up until now. 
+ 
+ The tiny critters in question represent two species of the group of microbes called hemimastigotes, and based on a detailed genetic analysis, one of them has never been spotted before. 
+ 
+ According to the team of researchers from Dalhousie University in Canada, the two species are eukaryotes (with complex cells, like humans), and protists (outside the animal, plant, and fungi kingdoms). But they don't fit the patterns of the existing 10 kingdoms that make up the Eukaryota domain. 
+ 
+ (Yana Eglit) 
+ 
+ "This discovery literally redraws our branch of the tree of life at one of its deepest points," says one of the researchers, Alastair Simpson. "It opens a new door to understanding the evolution of complex cells – and their ancient origins – back well before animals and plants emerged on Earth." 
+ 
+ The first hemimastigote species to be identified was Spironema, which has only ever been spotted a handful of times. A second completely new species was then discovered – the scientists named it Hemimastix kukwesjijk, after the Kukwes ogre in the folklore of the local Mi'kmaq people. 
+ 
+ This microbe looks and acts like a miniature ogre, the researchers say, in the way it traps and eats food. 
+ 
+ "It's an unusual looking group of organisms," says one of the team, Yana Eglit. "The way they behave under the microscope, you won't immediately spot them." 
+ 
+ The first hemimastigote was identified in the 19th century, but before now scientists haven't been able to do a detailed genetic analysis on these microbes. They have always been something of a mystery when it comes to classification. 
+ 
+ With the help of a relatively new gene sequencing technique called single-cell transcriptonomics – which can glean the same amount of data from a handful of cells as other techniques can from millions – the team was able to confirm that these organisms don't fall into the tree of life branches already identified by scientists. 
+ 
+ In fact they're more different from other organisms as animals and fungi are from each other. To find a common ancestor between hemimastigotes and any other living creature you would have to go back about a billion years, the researchers suggest. 
+ 
+ "They represent a major branch... that we didn't know we were missing," Simpson told Emily Chung at CBC News. "There's nothing we know that's closely related to them." 
+ 
+ What makes the discovery all the more remarkable is that Yana Eglit only collected the crucial samples on a whim during a spring hike with other students along the Bluff Wilderness Trail outside Halifax. 
+ 
+ When studying the microbes under a microscope, Eglit noticed that the flagella (or tiny hairs) on the organisms appeared to be moving in a random rather than a coordinated fashion – that's unusual, and one of the signs of a rare hemimastigote. 
+ 
+ The researchers were even able to feed and breed captive Hemimastix kukwesjijk microbes, which means we won't have to rely on fortunate woodland hikes to have more opportunities to study them. Further research might give us more insight into the very earliest history of the evolution of life. 
+ 
+ And despite playing such a major role in the discovery, Yana Eglit is keen to emphasise the work behind this fascinating development in the tree of life was a team effort. 
+ 
+ "We would have not been able to do this work alone as one lab," says Eglit. "Everyone involved in this was essential." 
+ 
+ The research has been published in Nature. ||||| Almost all eukaryote life forms have now been placed within one of five to eight supra-kingdom-level groups using molecular phylogenetics1,2,3,4. The ‘phylum’ Hemimastigophora is probably the most distinctive morphologically defined lineage that still awaits such a phylogenetic assignment. First observed in the nineteenth century, hemimastigotes are free-living predatory protists with two rows of flagella and a unique cell architecture5,6,7; to our knowledge, no molecular sequence data or cultures are currently available for this group. Here we report phylogenomic analyses based on high-coverage, cultivation-independent transcriptomics that place Hemimastigophora outside of all established eukaryote supergroups. They instead comprise an independent supra-kingdom-level lineage that most likely forms a sister clade to the ‘Diaphoretickes’ half of eukaryote diversity (that is, the ‘stramenopiles, alveolates and Rhizaria’ supergroup (Sar), Archaeplastida and Cryptista, as well as other major groups). The previous ranking of Hemimastigophora as a phylum understates the evolutionary distinctiveness of this group, which has considerable importance for investigations into the deep-level evolutionary history of eukaryotic life—ranging from understanding the origins of fundamental cell systems to placing the root of the tree. We have also established the first culture of a hemimastigote (Hemimastix kukwesjijk sp. nov.), which will facilitate future genomic and cell-biological investigations into eukaryote evolution and the last eukaryotic common ancestor. ||||| Canadian researchers have discovered a new kind of organism that's so different from other living things that it doesn't fit into the plant kingdom, the animal kingdom, or any other kingdom used to classify known organisms. 
+ 
+ Two species of the microscopic organisms, called hemimastigotes, were found in dirt collected on a whim during a hike in Nova Scotia by Dalhousie University graduate student Yana Eglit. 
+ 
+ A genetic analysis shows they're more different from other organisms than animals and fungi (which are in different kingdoms) are from each other, representing a completely new part of the tree of life, Eglit and her colleagues report this week in the journal Nature. 
+ 
+ "They represent a major branch… that we didn't know we were missing," said Dalhousie biology professor Alastair Simpson, Eglit's supervisor and co-author of the new study. 
+ 
+ "There's nothing we know that's closely related to them." 
+ 
+ In fact, he estimates you'd have to go back a billion years — about 500 million years before the first animals arose — before you could find a common ancestor of hemimastigotes and any other known living things. 
+ 
+ This is the part of the Bluff Wilderness Trail in Nova Scotia where graduate student Yana Eglit collected some dirt that ended up containing two species of rare hemimastigotes. (Submitted by Yana Eglit) 
+ 
+ The hemimastigotes analyzed by the Dalhousie team were found by Eglit during a spring hike with some other students along the Bluff Wilderness Trail outside Halifax a couple of years ago. She often has empty sample vials in her pockets or bags, and scooped a few tablespoons of dirt into one of them from the side of the trail. 
+ 
+ Back at the lab, she soaked the soil in water, which often revives microbes that have gone dormant, waiting for the next big rainstorm. Over the next few weeks, she checked on the dish through a microscope to see what might be swimming around. 
+ 
+ Strange movements 
+ 
+ Then, one day, about three weeks later, she saw something that caught her eye — something shaped like the partially opened shell of a pistachio. It had lots of hairs, called flagella, sticking out. Most known microbes with lots of flagella move them in co-ordinated waves, but not this one, which waved them in a more random fashion. 
+ 
+ "It's as if these cells never really learned that they have many flagella," Eglit said with a laugh. She had seen something with that strange motion once before, a few years ago, and recognized it as a rare hemimastigote. 
+ 
+ Hemimastigotes were first seen and described in the 19th century. But at that time, no one could figure out how they fit into the evolutionary tree of life. Consequently, they've been "a tantalizing mystery" to microbiologists for quite a long time, Eglit said. 
+ 
+ Light microscopes show the two hemimastigotes, Spironema, left, and Hemimastix kukwesjijk, found in the same dish. (Yana Eglit/Nature) 
+ 
+ Like animals, plants, fungi and amoebas — but unlike bacteria — hemimastigotes have complex cells that have mini-organs called organelles including a nucleus that holds chromosomes of DNA, making them part of the "domain" of organisms called eukaryotes rather than bacteria or archaea. 
+ 
+ About 10 species of hemimastigotes have been described over more than 100 years. But up until now, no one had been able to do a genetic analysis to see how they were related to other living things. 
+ 
+ Realizing that she had something very rare and special, Eglit flagged another graduate student Gordon Lax, who specializes in genetic analyses of individual microbes — a new and tricky technique — to see where they fit in the evolutionary tree. The pair dropped everything to analyze the new microbe. 
+ 
+ The co-authors of the new study include, left to right, Dalhousie University postdoctoral researcher Laura Eme, Eglit and fellow graduate student Gordon Lax. (Michelle Léger) 
+ 
+ New species 
+ 
+ Eglit wanted to see if she could find more of the creatures in the dish, and, as she was looking, she spotted another kind of hemimastigote. 
+ 
+ "To our tremendous surprise, two of these extremely rarely seen organisms ended up in one dish." 
+ 
+ There were more of the second kind, which turned out to be a new species. 
+ 
+ The researchers named itHemimastix kukwesjijk after Kukwes, a greedy, hairy ogre from the mythology of the local Mi'kmaq people. (The suffix "jijk" means "little.") 
+ 
+ Eglit watched carefully as it hunted. Hemimastix shoots little harpoons called extrusomes to attack prey such as Spumella, a relative of aquatic microbes called diatoms. It grasps its prey by curling its flagella around it, bringing it to a "mouth" on one end of the cell called a capitulum "as it presumably sucks its cytoplasm out," Eglit said. 
+ 
+ Hemimastix kukwesjijk feeds on its prey in this microscope image. It attacks the prey with harpoon-like organs, then uses its flagella to bring the prey to its mouth, called a capitulum, and sucks out the juices or cytoplasm. (Yana Eglit/Nature) 
+ 
+ Once she knew what it ate, she reared its prey in captivity so she could also feed and breed captive Hemimastix: "We were able to domesticate it, in a way." 
+ 
+ That means scientists can now give captive specimens to other scientists to study, and their rarity is not the issue it was before. 
+ 
+ Based on the genetic analysis they've done so far, the Dalhousie team has determined that hemimastigotes are unique and different enough from other organisms to form their own "supra-kingdom" — a grouping so big that animals and fungi, which have their own kingdoms, are considered similar enough to be part of the same supra-kingdom. 
+ 
+ They are now doing a more complete genetic analysis of Hemimastix. That's expected to turn up new data that will help scientists piece together the evolutionary history of life on Earth with more detail and more accuracy. 
+ 
+ Eglit says it's "extremely exciting" that it's still possible to discover something so different from all known life on Earth. 
+ 
+ "It really shows how much more there is out there." 
+ 
+ But Simpson noted that discoveries like this one are pretty rare: "It'll be the one time in my lifetime that we find this sort of thing."

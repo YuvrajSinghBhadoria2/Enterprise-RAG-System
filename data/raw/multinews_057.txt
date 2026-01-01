@@ -1,0 +1,229 @@
+Source: Multi-News
+
+The moment has arrived. Executives from Research in Motion have gathered for a six-city, simultaneous launch of BlackBerry 10, a mobile operating system that will power a new series of phones (and who knows what else). In one hour we’ll hear about the all-new BlackBerry 10 platfor, and two new phones, rumored to be called the Z10 and X10. Here in New York, hundreds of analysts, journalists and industry observers are bustling around the blue-tinted environs of Pier 36 in the Lower East Side for the launch which starts at 10am EST (7am Pacific). 
+ 
+ Some are skeptical about today’s launch. RIM’s global market share is down to roughly 6% from a peak of 20% just three years ago; its shares are down 80% in the same period. This is a story of how quickly even dominant players in the new world of telecoms can fall behind if they stall in development: take a breath and you’re king of the industry; let it out and someone’s just overtaken you. In RIM’s case, iPhones and Android phones became the devices everyone wanted for both work and play, crimping RIM’s marketshare after a peak in 2009. A trickier-than-expected transition from RIM’s purchase of QNX in 2010 didn’t help matters. QNX technology will now power BB10. 
+ 
+ Today is widely seen as the company’s last shot at relevance, a cliched Hail Mary Pass. It has laid off thousands of employees to save $1 billion in costs, but today RIM is pulling out the stops with a big launch venue. Stay tuned… 
+ 
+ 9.37 am EST: The main hall has opened for press, with Hot Chip thumping through the speakers. And some nice news for RIM’s shares: they’re currently up 4.2% after a two-day decline. 
+ 
+ 9.46am EST: The rest of the launch attendees are filling up the main hall – it’s getting loud and busy. Not long now. 
+ 
+ 10:06 am EST: Our MC has taken to the stage and we’re starting with video link-ups with the five other launch events around the world: London, Dubai, Toronto Paris and Johannesburg. The crowd in Toronto looks especially excited. 
+ 
+ 10:13 am EST: We’re seeing a couple of videos from industry and die-hard consumer fans of the BlackBerry. If you’re interested, you can watch them here. And here is a guy who has been growing his hair until the launch of BlackBerry 10 – a stage hand has just snipped off his pony tail in front of the cheering audience. That was cute. 
+ 
+ 10:14 am EST: And now, RIM’s chief executive, Thorsten Heins has taken to the stage. Looking relaxed in a grey suit with no tie. It’s been almost one year exactly since I was handed the reins of Research in Motion and it has easily bee the most challenging year of my career to date… but also the most exhilarating and rewarding.” 
+ 
+ 10:20 am EST: Heins: “We will soon give you more ways to connect your mobile experience to the world around you… We will be a leader in connecting you to your Internet of Things.” This is what RIM means when they talk about BlackBerry 10 being for hyper-connected consumers. 
+ 
+ 10:23 am EST: Heins says RIM had to make the tough decision to “go it alone” with its own software platform. He is publicly thanking RIM’s engineers and carrier partners. 
+ 
+ 10.27 am EST: Transitioning to RIM’s new phase it took heartfelt and brutal honesty with ourselves. We have transformed ourselves inside and out. Some big news: Research in Motion has rebranded itself as just BlackBerry. Now “Apple” isn’t the only fruit-theme tech moniker on the block. “ It all starts today with our renaming and our global launch of BlackBerry 10,” says Heins. 
+ 
+ 10.28 am EST: And here are the two new phones: the touchscreen Z10 and the Q10, a phone with a physical keyboard. The phones boast 1080p video recording. “Aren’t they beautiful?” asks Heins. (The rumors were almost right. Reports initially called them the Z10 and “X10″) 
+ 
+ 10:31 am EST: The devices have a “glass-weave” cover. Now Vivek Bhardwaj, head of BlackBerry’s software portfolio takes to the stage to demonstrate BlackBerry 10. The backdrop already refers to Bhardwaj’s employer as “BlackBerry.” He’s demonstrating BlackBerry Flow, and seamless transitions between apps like YouTube and the phone’s Hub. 
+ 
+ 
+ 
+ 10:33 am EST: Bhardwaj demonstrates watching a movie on the phone – the famous red LED on all BlackBerry phone flashes to indicate an email. He swipes the film slightly to the right to “peek” into the Hub and see what the email is. “We’ve move from content, straight into BlackBerry Hub.” RIM’s big idea is that checking notifications should not be disruptive, but seamless. Swipe down slightly and you can peek into your calendar to see what appointments you have coming up. 
+ 
+ 
+ 
+ 10:41 am EST: Bhardwaj shows off the predictive keyboard on the Z10, uses language algorithms to learn what sort of words its users tend to use over time. Unusually, predicted words appear *within* the keyboard – they’re small, but readable. Once you see a word you want to use, flick up to select it. There’s also “multi-language support,” meaning if you type “je” or “I” in French, the predictions suddenly go en Frances. 
+ 
+ 
+ 
+ 10:43 am EST: Now we’re looking at BlackBerry Balance, which separates work and personal apps on the phone as two different profiles. “Both applications co-exist, work and personal” says Bhardwaj. Heins adds that it’s a great solution for the CIO, because he can control the work aspect of the device, and the user, who can control the personal. 
+ 
+ 
+ 
+ 10:45 am EST: Heins says he has some exciting news about BlackBerry Messenger: it now has video calling capabilities. Bjardwaj does a video calling demo to Andrew in London, whose face we see pop up on the screen. In the middle of the call, they can sync screens in a feature called “screen share” to show images and screenshots. 
+ 
+ 
+ 
+ 10:50 am EST: We’re seeing some nifty tools for remembering appointments and tasks, part of a feature called BlackBerry Remember. 
+ 
+ 
+ 
+ 10:52 am EST: Now fror a demonstration of the Z10 camera. Bhardwaj takes a photo of Heins on stage. “What stands out is creating that perfect shot,” he says, focusing on Heins’ face. BlackBerry Timeshift, allowing you to take several photos in a row and zooming in to choose the best facial expression. There are Instagram-like filters for photo editing. 
+ 
+ 
+ 
+ 10:55 am EST: We’re talking about vacations – I’m sure both these guys could use one – and a feature called BlackBerry Story Maker. This appears to be an app that creates slide shows with transitions, effects, title and credit screens, from photos and videos in an album. Heins thanks Bhardwaj, who leaves the stage. 
+ 
+ 
+ 
+ 10:58 am EST: BlackBerry’s (formerly RIM’s) shares are down 4.6% despite showing off some nifty features. 
+ 
+ 
+ 
+ - And now Martyn Mallick, vice president of global alliances and business development, takes to the stage. “We are launching BlackBerry 10 with more apps than any first-generation operating system,” says Mallick. BB10 has more than 70,000 applications available. Among the committed developers: Skype, WhatsApp, Amazon Kindle, SAP, Rovio (Angry Birds). We have over 1,000 top applications from around the world committed to BlackBerry 10. 
+ 
+ 
+ 
+ 11.00am EST – Among the gaming partners: Electronic Arts and GameLoft. For Music: “all the major record labels and the independents.” No mention yet of Spotify, Netflix or Hulu. 
+ 
+ 11.07am EST - Now for timing: ”By end of February we’ll be completing testing with 110 carriers globally.” (That’s lower than then 150 carriers we’d heard about before. In the U.S., carrier partners AT&T, Verizon and Sprint and T-Mobile will announce pricing and availability today. We expect availablity for Z10 to be in March. In Canada it will be available on Feb 10. It will retail for $199 on a three-year contract. in the UK z10 will be available tomorrow from Everything Everywhere, O2, Vodafone, BT and Carphone Warehouse. 
+ 
+ 
+ 
+ 11.10am EST – BlackBerry is announcing a “global creative director” position – sounds like it will be a celebrity. Yep, it’s Alicia Keys. Wearing a black velvet blazer, she has taken to the stage to describe what she likes about the new platform, and describes BlackBerry as an ex-boyfriend. Not a bad analogy – a lot of smartphone started with a BlackBerry before switching to an iPhone or Android phone. She had once been an avid user, then “we broke up” and she went for more bling. “I was playing the field.” Now we’re “back together.” 
+ 
+ 
+ 
+ 11.15 am EST: So what is Keys going to do? “I’m going to work closely with the app designers, the carriers, to explore this BB10 platform,” she says. “I’m definitely going to start with other super women who also love BlackBerry, and work with people in the entertainment and music business to inspire creative projects. And I want to enhance this concept, or bridging the gap between the work phone and the play phone. I’m extremely excited to work with you and your team.” ||||| Summary: At events in major cities around the world, the BlackBerry maker rests its final chance of survival on the latest BlackBerry 10 platform, which the Canadian smartphone maker launched today. 
+ 
+ New York: Research In Motion (RIM) today launched two new devices running the long-awaited BlackBerry 10 platform at events around the world, including in London, Paris, and Dubai. And to illustrate how BlackBerry 10 is an all-or-nothing bet on the future, RIM has rebranded itself BlackBerry as a company. 
+ 
+ (Credit: Sarah Tew/CNET) 
+ 
+ The BlackBerry maker also announced two new devices: The touchscreen BlackBerry Z10 and the hardware keyboard-enabled BlackBerry Q10. 
+ 
+ (Credit: BlackBerry) 
+ 
+ The Z10 comes with a 4.2-inch display with 356 pixels per inch (ppi), along with a textured backing that makes it comfortable to hold. The Q10 comes with a fully fledged mobile QWERTY keyboard from a slightly smaller portrait display. It comes with a glass-weave cover, making it thinner and lighter, but also stronger than plastic. 
+ 
+ Both devices come with a 1.5Ghz dual-core processors with 2GB of RAM, 16GB of internal storage, and an expandable memory card slot. Also included is a micro-HDMI output port on each device and near-field communication (NFC). 
+ 
+ And, as expected, both devices will connect to compatible 4G LTE and HSPA+ networks. 
+ 
+ (Credit: BlackBerry) 
+ 
+ The Z10 will be available from March in the US on AT&T, Verizon, Sprint, and T-Mobile, but price will vary by carrier. Heins attributed the network testing phase as being the main reasons for the delay. It will be available in the UK tomorrow on all carriers--including EE, O2, Vodafone, BT, and Three--with pricing set by carrier. The Z10 will be available in Canada on February 5. 
+ 
+ The smartphone maker said the Z10 will retail for "around $149.99 on a three-year contract." 
+ 
+ The Q10 will be made available to worldwide carriers in April, and pricing will range between £36 and £45 per month for a two-year contract on most networks. In most cases, upfront fees should be expected. 
+ 
+ Today, BlackBerry chief executive Thorsten Heins said, "Finally, here we are." He noted that today was not the end point of more than two years' work; it was the "starting line" for a new wave of BlackBerry products. 
+ 
+ And then Heins dropped a surprise bomb on the audience by announcing that "Research In Motion" would become "one consistent brand that is recognized around the world." RIM will therefore become "BlackBerry," combining the name of the company and the platform together. 
+ 
+ "One brand, one promise," Heins said. 
+ 
+ RIM--sorry, I mean BlackBerry--has already garnered support from the three major carriers: Verizon, AT&T, and T-Mobile. In total, BlackBerry has more than 650 carriers around the world. 
+ 
+ BlackBerry global creative director Alicia Keys--yes, the singer--also shows that the company formerly known as RIM is also targeting not just soccer moms, but also moms in the workplace, according to Heins' introduction. 
+ 
+ She said, almost too honestly, that she left the BlackBerry platform but came back after balancing two phones between work and home. Interestingly, BlackBerry has a solution to such a problem: BlackBerry Balance, which targets bring-your-own-device (BYOD) users. The software allows users to separate work and home lives with BlackBerry Balance, by splitting secure enterprise email and work apps with personal email accounts. 
+ 
+ Read this BlackBerry 10 launch: By the numbers BlackBerry, previously known as Research In Motion (RIM), launched the new BlackBerry 10 platform this morning. Here are the numbers you need to know. Read more 
+ 
+ Last week, BlackBerry released the back-end mobile device management service BlackBerry Enterprise Service (BES) 10, which powers the new BlackBerry's secure message service, along with policy management of the devices, along with both iOS and Android phones. 
+ 
+ The launch of the new platform and devices comes at a crucial time for the Ontario, Canada-based smartphone maker. 
+ 
+ BlackBerry has been under pressure to release the next wave of BlackBerry smartphones--its primary business focus--in a bid to reclaim a considerable quarter-on-quarter loss in mobile market share. 
+ 
+ BlackBerry 10 was also delayed by a whole fiscal quarter following poor first-quarter sales put the company's cash-flow situation in the spotlight. The company also cut 5,000 jobs as part of a major restructuring effort to refocus the company's efforts on the BlackBerry 10 platform. 
+ 
+ BlackBerry--which remains $RIMM on the Nasdaq--climbed by more than 4.6 percent in early morning trading, but dropped dramatically to more than 5 percent by the end of the launch event. ||||| BlackBerry has announced a new position, Global Creative Director, and hired its own in-house celebrity to fill the role: Alicia Keys. Keys was apparently chosen for renewing her "long-term relationship" with BlackBerry after straying during its bling-less doldrums, as she illustrated with a long anecdote about her romance with the newly "fly" platform. Though Keys says she'll be working closely with BlackBerry developers and is "fascinated by technology," her role is more similar to that of another celebrity: Will.i.am, who was previously named Director of Creative Innovation of Intel. All in all, it's quite the turnaround from calling herself an "iPhone junky" last year — how the heart does wander. 
+ 
+ BlackBerry is also trying to pull in some other big names: Neil Gaiman and Robert Rodriguez (referred to as the "world's most inspirational people") will be using the platform for a film and art/storytelling project, respectively. We're not quite sure yet what that will mean in practice — though BlackBerry's been pushing its typing chops pretty hard, so making somebody write a novel on their phone isn't out of the question. Keys, meanwhile, will be taking the BlackBerry on tour and will use it to create a music video for every city she visits. All these projects will involve collaborating with new BlackBerry 10 adopters, throwing some potential celebrity interaction in to sweeten the deal for anybody who's on the fence. ||||| Thorsten Heins, CEO of Research in Motion, introduces the BlackBerry 10. (Photo: Mark Lennihan, AP) 
+ 
+ Research in Motion -- now taking on the name BlackBerry -- has unveiled its latest line of BlackBerry smartphones. 
+ 
+ The BlackBerry Z10 features a full touchscreen and textured back, while the Q10 features the traditional design with physical keyboard. 
+ 
+ So far, Wall Street does not seem too impressed. The company's stock is down 6%. 
+ 
+ Miss the event? Scroll down for a look at the action as it happened. 
+ 
+ 11:26 a.m.: Heins wrap up. The Z10 dominated the presentation, but BlackBerry has more details on the traditional Q10 smartphone on its official blog. 
+ 
+ Beyond a physical QWERTY keyboard, the device features a 3.1-inch AMOLED touchscreen display. 
+ 
+ 11:19 a.m.: Based on a video, it looks like the Z10 will be available in either black or white. 
+ 
+ The video shows Keys, director Robert Rodriguez and writer Neil Gaiman handling various projects on the new BlackBerrys. Keys says she plans on taking the phone on tour and create videos from every city. 
+ 
+ 11:17 a.m.: Keys says she's particularly focused on maintaining the phone's vision for balance between personal and work tasks. "I really want to bridge the gap between the work phone and play phone," says Keys. 
+ 
+ 11:15 a.m.: Keys talks to Heins about why she split briefly from BlackBerry to choose other phones, comparing it to a long-term relationship. She cites "sexier" phones on the market, but appeared impressed with BlackBerry's new changes. "We're exclusively dating again and I'm very happy," she says. 
+ 
+ 11:13 a.m.: Heins creating a global creative director position at BlackBerry. The company's CEO announces Grammy winner Alicia Keys will fill the role. 
+ 
+ 11:10 a.m.: Heins says all four major U.S. wireless carriers -- AT&T, Verizon, Sprint and T-Mobile -- will carry the Z10. Price points will vary based on carrier. Device will start hitting stores worldwide next month. 
+ 
+ (Correction: AT&T, Verizon and T-Mobile will carry the Z10. Sprint has committed to carrying the Q10 when it comes out.) 
+ 
+ 11:08 a.m.: Seeing a variety of music and film options, from Alicia Keys to Pixar movies. This looks like a real serious push to battle Apple and Google. 
+ 
+ 11:07 a.m.: Checking out montage of the apps and other media in BlackBerry World. Again, most of the heavy hitters are available, such as Evernote and Dropbox. 
+ 
+ 11:04 a.m.: One area where BlackBerry will need work is apps. Currently, BlackBerry World hosts 70,000 applications, much lower than competitors. However, the selection is pretty strong, including Skype, MLB and Amazon Kindle. It appears most of the major apps are available. Lots of games featured too, including Angry Birds and Where's My Water? 
+ 
+ 11:00 a.m.: Heins says all eight major studios and all major music labels have signed on to add music and video to BlackBerry World, the equivalent to the App Store and Google Play. 
+ 
+ 10:58 a.m.: Next up is BlackBerry Story Maker, software that lets users combine photos and video to create their own films. Users can also apply filters similar to Instagram. 
+ 
+ 10:55 a.m.: Picture Editor includes free transform, other editing options available in most smartphones. 
+ 
+ So far, investors do not seem impressed with the unveiling. Stock in the company formerly known as RIM is down 5%, and falling. 
+ 
+ 10:54 a.m.: Checking out the Z10's camera. Users tap anywhere to take a picture, or move reticle to change focus. Also includes feature to help users snap best image. 
+ 
+ 10:52 a.m.: BlackBerry Remember is the next feature, consisting of a series of folders users access to manage content such as messages, photos, browser bookmarks and other info. 
+ 
+ 10:50 a.m.: The video chat also includes Screen Share, which allows one user to share their BlackBerry screen with another. 
+ 
+ 10:48 a.m.: Heins shifting to BlackBerry Messenger, which has 60 million users. The service is now adding video calls. They're testing it out with a BBM call to reps at the London event. The user can flip between chat and video call easily. 
+ 
+ 10:46 a.m.: Now looking at BlackBerry Balance, which allows users to create custom home screens, such as Home or Work. Users can have multiple profile sets with different apps. It appears you get two. 
+ 
+ Also, if you like games, this demo just confirmed BlackBerry is getting Angry Birds: Star Wars. Looks like BlackBerry is beefing up their gaming options. 
+ 
+ 10:42 a.m.: The keyboard is really fascinating. It features a variation on predictive text where users can flick words from the keyboard. It recognizes the sentence structure and suggests words. 
+ 
+ 10:40 a.m.: The integration of social networks looks promising. Searching appears seamless. "The device adapts to you and what you need to know," says Heins. 
+ 
+ 10:38 a.m.: When managing messages, the user can hold down on an email or text and see a menu pop to the right side. Users then slide their thumb over to flag a messages, delete or perform other tasks. 
+ 
+ 10:36 a.m.: Also interesting: BlackBerry Peek. For example, while watching a video, the user can swipe from the left to quickly check email or their social network. It appears effortless. 
+ 
+ 10:35 a.m.: BlackBerry about to showcase the BlackBerry Hub, the interface for working with the Z10 smartphone. It features a series of rectangular tiles, slightly similar to Windows Phone. It appears zippy. The user taps on the window and quickly pops up their app or browser. 
+ 
+ 10:33 a.m.: The Q10 features a physical keyboard, added by user request. "We heard you loud and clear," says Heins. "We built this for all those people that said we just have to have a physical keyboarding experience." Time for a demo. 
+ 
+ 10:31 a.m.: The Z10 features a 4.2-inch touchscreen and textured back to make it easy to hold. Heins says the phone will boast super-fast browsing and integration with social networks such as Facebook and Twitter. 
+ 
+ 10:30 a.m.: Heins unveils the first two BlackBerry 10 smartphones: The BlackBerry Z10 and Q10. The Z10 looks like a full touchscreen phone, while the Q10 looks like a traditional model with signature keyboard. 
+ 
+ 10:28 a.m.: Heins just revealed Research in Motion is now going by name BlackBerry. "We are a company that is united in our vision of a mobile company," Heins says of the name change. 
+ 
+ 10:26 a.m.: Heins introduces RIM founder and former CEO Mike Lazaridis, who receives a huge ovation from the crowd. 
+ 
+ 10:24 a.m.: "To say we have reinvented this company is simply not enough," Heins says of RIM's evolution. He says new operating system built from the ground up, with stronger emphasis on content and apps. 
+ 
+ 10:21 a.m.: Heins says focus for BlackBerry 10 is to help users stay hyper-connected socially as well as maintaining a balance between their personal and professional lives. "BlackBerry 10 will keep them moving," Heins says, adding devices make jump to "true mobile computing." 
+ 
+ 10:18 a.m.: "We have definitely been on a journey of transformation," says Heins, who took over as CEO nearly a year ago. "I know innovation is at the heart of RIM," he says of the opportunity to lead RIM. 
+ 
+ 10:17 a.m.: The "#1 BlackBerry Fanboy" just cut some of his hair off due to his enthusiasm for the device. I think we get it, RIM. Everyone is thrilled. 
+ 
+ Finally, Thorsten Heins, RIM President and CEO, takes the stage. 
+ 
+ 10:15 a.m.: Yet another video montage about the greatness of BlackBerry. If you're keeping score online, that's 3 video montages to zero phones unveiled. 
+ 
+ Rapper Lil E is apparently so excited for the launch that he created a song called "No Sleep 'Til BlackBerry 10." RIM might be a wee bit excited about this launch. 
+ 
+ 10:12 a.m.: Alec Saunders, RIM's vice president of developer relations, talks about the behind-the-scenes action on BlackBerry 10. He says company has seen "huge groundswell of support" for the operating system. 
+ 
+ 10:09 a.m.: We've got another montage, CEOs, entrepreneurs and others from around the world talk about BlackBerry 10's perks. Interface definitely looks sleeker compared to earlier models. It seems more in line with contemporary smartphones. 
+ 
+ 10:07 a.m.: A RIM host conducts a quick global roll call, checking in on launch events in London, Paris and Dubai. Let's see some phones! 
+ 
+ 10:05 a.m.: The video montage begins. "One device for work and play" is the theme. Re-designed and re-invented used often. 
+ 
+ Update at 10:03 a.m. ET: Naturally, RIM is running late. Hope to have updates soon. 
+ 
+ Our original story 
+ 
+ Research in Motion is getting ready to reveal arguably its most important lineup of smartphones: the BlackBerry 10 line. 
+ 
+ As competition heats up from companies such as Apple, Google, Microsoft and Samsung, the maker of the former #1 smartphone seeks a rebound with its latest BlackBerry. 
+ 
+ What will RIM reveal? Stay here for the latest updates from the event starting at 10 a.m. ET. If you can access video, RIM is also hosting a webcast of their event.

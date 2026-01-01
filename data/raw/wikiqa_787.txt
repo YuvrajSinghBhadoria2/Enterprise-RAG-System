@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The name square number comes from the name of the shape; see below .

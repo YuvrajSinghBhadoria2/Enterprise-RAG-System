@@ -1,0 +1,3 @@
+Source: WikiQA
+
+It currently manages the Mars Exploration Rover mission's active Opportunity rover and inactive Spirit , and, as part of the Mars Science Laboratory mission, the Curiosity rover.

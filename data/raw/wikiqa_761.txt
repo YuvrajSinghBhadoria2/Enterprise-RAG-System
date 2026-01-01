@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Amino acids are selected, collected and carried to the ribosome by transfer RNA (tRNA molecules), which enter one part of the ribosome and bind to the messenger RNA chain.

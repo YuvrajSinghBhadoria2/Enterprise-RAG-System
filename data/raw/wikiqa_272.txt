@@ -1,0 +1,3 @@
+Source: WikiQA
+
+A bag in the hole scores 3 points, while one on the platform scores 1 point.

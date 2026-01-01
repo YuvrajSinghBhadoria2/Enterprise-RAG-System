@@ -1,0 +1,19 @@
+Source: Multi-News
+
+Hedonometer 
+ 
+ Hedonometer.org is an instrument that measures the happiness of large populations in real time. The hedonometer is based on people’s online expressions, capitalizing on data-rich social media, and measures how people present themselves to the outside world. ||||| The most commonly used words of 24 corpora across 10 diverse human languages exhibit a clear positive bias, a big data confirmation of the Pollyanna hypothesis. The study’s findings are based on 5 million individual human scores and pave the way for the development of powerful language-based tools for measuring emotion. 
+ 
+ Abstract 
+ 
+ Using human evaluation of 100,000 words spread across 24 corpora in 10 languages diverse in origin and culture, we present evidence of a deep imprint of human sociality in language, observing that (i) the words of natural human language possess a universal positivity bias, (ii) the estimated emotional content of words is consistent between languages under translation, and (iii) this positivity bias is strongly independent of frequency of word use. Alongside these general regularities, we describe interlanguage variations in the emotional spectrum of languages that allow us to rank corpora. We also show how our word evaluations can be used to construct physical-like instruments for both real-time and offline measurement of the emotional content of large-scale texts. ||||| Jakub Halun, Wikimedia Commons 
+ 
+ Human language is biased toward being happy, finds a new study that identifies 10 of the world’s most upbeat languages. 
+ 
+ The study, published in the latest issue of the Proceedings of the National Academy of Sciences, supports the Pollyanna Hypothesis, which holds that there is a universal human tendency to use positive words more frequently than negative ones. Nevertheless, the findings determined that some languages tend to skew happier than others. 
+ 
+ Lead author Peter Sheridan Dodds of the University of Vermont’s Computational Story Lab and his team found the top 100,000 of the most frequently used words across 10 languages. The researchers then asked native speakers of the various languages to rate whether the words were “happy” or “sad” on a 1–9 scale. For example, check out these English words and their rating: laughter: 8.5, food: 7.44, truck: 5.48, greed: 3.06 and terrorist 1.3. 
+ 
+ “The study’s findings are based on 5 million individual human scores and pave the way for the development of powerful language-based tools for measuring emotion,” Dodds and his team wrote. 
+ 
+ No. 10 on the list was Chinese. Websites and books among other sources were analyzed in the study. Chinese books scored the lowest for happiness among all included sources.

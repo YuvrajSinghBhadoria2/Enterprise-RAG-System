@@ -1,0 +1,3 @@
+Source: WikiQA
+
+A positive integer that has no perfect square divisors except 1 is called square-free .

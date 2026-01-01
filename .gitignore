@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Env
+venv/
+env/
+
+# Environment Variables
+.env
+
+# System
+.DS_Store
+
+# Data (Generated/Downloaded)
+data/index/
+data/raw/
+# data/db/
+# data/processed/
+
+# IDE
+.vscode/
+.idea/

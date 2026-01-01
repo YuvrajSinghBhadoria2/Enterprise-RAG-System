@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The concept of square can be extended to some other number systems.

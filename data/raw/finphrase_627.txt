@@ -1,0 +1,3 @@
+Source: FinancialPhrasebank
+
+The server is responsible for managing devices and user accounts and a desktop client application enables remote access to the mobile phones .

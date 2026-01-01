@@ -1,0 +1,61 @@
+Source: Multi-News
+
+In a post on the first day of this year, I noted the surprisingly rapid decline in e-book sales growth over the course of 2012. The trend appears to be continuing this year. The Association of American Publishers reports that in the first quarter of 2013, overall e-book sales in the U.S. trade market grew by just 5 percent over where they were in the same period in 2012. The explosive growth of the last few years has basically petered out, according to the AAP numbers*: 
+ 
+ Looking at the major segments of the trade market, e-book sales were up 13.6 percent in the adult segment, down 30.1 percent in the children’s segment, and down 0.6 percent in the religious segment. The children’s segment accounted for a big part of e-book growth last year, thanks in large measure to the Hunger Games franchise, but that boost has proved temporary. 
+ 
+ E-books are still taking share from printed books, as overall trade sales declined by 4.7 percent in the quarter, but the anemic growth of the electronic market calls into question the strength of the so-called “digital revolution” in the book business. E-books now represent a bit less than 25 percent of total book sales. That’s an impressive share, but it’s still a long way from dominance. Other big e-book markets also show signs of maturing. A new Nielsen Research report indicates that UK e-book sales actually declined slightly in April from year-earlier levels. 
+ 
+ I speculated in my January post about some reasons why e-books may fall short of expectations: 
+ 
+ 1. We may be discovering that e-books are well suited to some types of books (like genre fiction) but not well suited to other types (like nonfiction and literary fiction) and are well suited to certain reading situations (plane trips) but less well suited to others (lying on the couch at home). The e-book may turn out to be more a complement to the printed book, as audiobooks have long been, rather than an outright substitute. 2. The early adopters, who tend also to be the enthusiastic adopters, have already made their move to e-books. Further converts will be harder to come by, particularly given the fact that 59 percent of American book readers say they have “no interest” in e-books, according to the Bowker report. 3. The advantages of printed books have been underrated, while the advantages of e-books have been overrated. 4. The early buyers of e-readers quickly filled them with lots of books, most of which have not been read. The motivation to buy more e-books may be dissipating as a result. Novelty fades. 5. The shift from e-readers to tablets is putting a damper on e-book sales. With dedicated readers, pretty much the only thing you can do is buy and read books. With tablets, you have a whole lot of other options. (To put it another way: On an e-reader, the e-reading app is always running. On a tablet, it isn’t.) 6. E-book prices have not fallen the way many expected. There’s not a big price difference between an e-book and a paperback. (It’s possible, suggests one industry analyst, that Amazon is seeing a plateau in e-book sales and so is less motivated to take a loss on them for strategic reasons.) 
+ 
+ Those still seem reasonable. Most intriguing, to me, is the possible link between the decline in dedicated e-readers (as multitasking tablets take over) and the softening of e-book sales. Are tablets less conducive to book buying and reading than e-readers were? 
+ 
+ UPDATE: A little more confirming data: A recent report on the Canadian market, from BookNet Canada, indicates that the market share of e-books peaked in the first quarter of 2012 at 17.6% and then started falling, dropping to 12.9% in the fourth quarter of 2012. BookNet sees evidence that e-books may be “plateauing” at about 15% of the Canadian market: “‘The research suggests that the ebook market in Canada may have reached a plateau,’ says BookNet Canada President and CEO Noah Genner. ‘Early 2013 data backs this up. So far, we’re seeing the same pattern repeating itself.'” 
+ 
+ And this from a March 2013 report on the “stalling” of e-books in the UK market: “Yet even as book sales continue to move online, ebooks are making notably slow gains, and likely slowing down the etailing book market overall. Bowker found that ebooks’ share of the UK market reached a high of 13% in July 2012, driven upward by ebook purchases of ‘Fifty Shades of Grey.’ But by November the share had fallen back down to 9%.” (Even without “Fifty Shades,” the current ebook bestseller list in the UK is “filled with erotic fiction,” reports The Guardian.) 
+ 
+ UPDATE 2: The original version of this post described the Nielsen data as being worldwide; it actually reflects only the UK market. 
+ 
+ *Sources of AAP data in chart: 2009 2010 2011 2012 2013. The AAP doesn’t seem to release its sales reports directly to the public, so collecting the data, from secondary sources, is a bit of a trial. In general, good information on book sales is hard to come by. ||||| Pin Share 3 31 Shares 
+ 
+ The AAP has put out a new press release today with some tidbits on the the state of the US book market. The data is drawn from the StatShot report, and while I don't have all the stats available but what I do have is a little startling. 
+ 
+ Update: If you came to this post via one of the articles which argued ebook sales are flattening, don't believe it. That conclusion is wrong, and I can prove it. 
+ 
+ The AAP is reporting that the 1192 publishers which submit their sales data to the AAP did not see a significant increase in the ebook market in the first quarter of this year. Sales of adult ebooks increased by 13%, but children's ebooks dropped by 30% (religious ebooks held steady). 
+ 
+ The overall ebook market grew from $374.8 million to $393.6 million, or about 5%. That is far below the growth reported in previous years, but it is still good news. The AAP also reported the total reported book sales dropped by 4.7% (from $1.5 billion to $1.4 billion) thanks to a severe drop in the children's and YA segment (24.6%). 
+ 
+ In that context the 5% growth is not bad. Audiobooks also increased by 14% ($24.8 million to $28.3 million), so there is some good news. 
+ 
+ In spite of the spectacular growth of ebooks in 2008 to 2011, we all know that eventually the ride would come to a stop as the growth of ebook market share slowed. TBH I didn't expect it to happen so quickly. 
+ 
+ Of course, these statistics only represent publishers sending their data to the AAP and not the entirety of the US ebook market. One can still hope that indie pub saw better growth than this. 
+ 
+ For those who are interested, here is the data: 
+ 
+ image by historygradguy ||||| July 30, 2013 
+ 
+ New research on worldwide consumption of ebooks from Nielsen suggests that we could be at the end of the period of explosive growth for digital reading, as year-on-year sales fell for the first time. 
+ 
+ 
+ 
+ Nielsen’s new "Understanding the E-Book Consumer" for July 2013, which is based on data from the Kantar World Panel, also contains some better news for proponents of digital reading. It predicts that ebooks will overtake sales of print books in 2014, with total sales expected to rise to 47 million units. This will put total ebook sales 300,000 ahead of their print equivalents and mean that electronic books account for 48% of the overall fiction market. 
+ 
+ 
+ 
+ Away from the predictions, those parts of Nielsen Kantar’s report that are based on historic data show a more mixed picture for publishers. Sales of ebooks fell for the third consecutive month in April 2013, showing a (very slight) year-on-year decline of 0.1% - the first time such a thing has been recorded in this market. Nielsen attributes this slowdown to the lack of a star performing title in children’s and young adult publishing in 2013 to replicate the success that Suzanne Collins’ The Hunger Games trilogy enjoyed last year. 
+ 
+ 
+ 
+ Nielsen’s data for the UK market mirrors recent statistics published by the Association of American Publishers in early July. This reported that the days of double or even triple digit growth for the market might now be gone, with ebook sales growing by only 5% to $393.6 million in the first quarter of 2013. It also suggested that the huge success of The Hunger Games in 2012 may have been a one-off event that helped to skew expectations of the market this year. 
+ 
+ 
+ 
+ As ebook sales look set to take just under half of the total fiction market in the UK and more than a fifth (22%) of the overall UK book market, according to recent Bowker Market Research, it is only natural that the rate of growth would slow. As the overall market for ebooks gets bigger, publishers will need to sell ever greater volumes of ebooks in order to report significant growth, which is harder to achieve in a larger market. 
+ 
+ 
+ 
+ What these results do indicate very strongly, however, is the impact that just one runaway hit can have on moving the publishing market on both sides of the Atlantic, and the ultimate importance that blockbuster book sales still have to publishers’ bottom lines.

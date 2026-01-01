@@ -1,0 +1,3 @@
+Source: WikiQA
+
+With most if not all VULs, unlike whole life, there is no endowment age (the age at which the cash value equals the death benefit amount, which for whole life is typically 100).

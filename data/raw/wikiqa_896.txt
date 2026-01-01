@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The 1 g-force on an object sitting on the Earth's surface is caused by mechanical force exerted in the upward direction by the ground , keeping the object from going into free-fall.

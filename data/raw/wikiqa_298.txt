@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The slope of a roof is properly known as its pitch: Roofs which are nearly flat are known as low-pitch roofs (as the angle of slope increases, so the pitch is said to increase).

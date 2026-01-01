@@ -1,0 +1,3 @@
+Source: WikiQA
+
+(See Madelung rule for more details.)

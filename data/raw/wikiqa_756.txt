@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Ribosomes link amino acids together in the order specified by messenger RNA (mRNA) molecules.

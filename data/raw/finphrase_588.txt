@@ -1,0 +1,3 @@
+Source: FinancialPhrasebank
+
+RFID ( Radio Frequency Identification ) is a method of so-called intelligent transport , whereby information can be read and saved remotely .

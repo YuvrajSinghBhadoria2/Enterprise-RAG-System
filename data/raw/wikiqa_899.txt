@@ -1,0 +1,3 @@
+Source: WikiQA
+
+This is demonstrated by the "zero-g" conditions inside a freely falling elevator falling toward the Earth's center (in vacuum), or (to good approximation) conditions inside a spacecraft in Earth orbit.

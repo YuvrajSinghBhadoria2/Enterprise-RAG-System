@@ -1,0 +1,3 @@
+Source: WikiQA
+
+It can be uniform, with constant angular rate of rotation (and constant speed), or non-uniform with a changing rate of rotation.

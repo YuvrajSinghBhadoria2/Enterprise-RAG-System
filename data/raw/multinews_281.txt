@@ -1,0 +1,57 @@
+Source: Multi-News
+
+Mitch McConnell Got Everything He Wanted. But at What Cost? 
+ 
+ Mr. Trump has turned out to be the one thing the Senate Republican leader can’t control. ||||| The corporate and media sites of The New York Times (NYT) experienced a lengthy outage on Wednesday that a source close to the matter said appeared to be caused by a cyber attack, although the newspaper cited a scheduled maintenance update. 
+ 
+ The outage began around 11:30 a.m. ET and service appeared to be restored at about 1 p.m. ET. 
+ 
+ The source, who asked not to be named due to the sensitive nature of the issue, said the newspaper had been huddling with outside security professionals to assess the threat. 
+ 
+ On its official Twitter account, the New York Times said it was “experiencing a server issue that has resulted in our e-mail and Web site being unavailable." 
+ 
+ The newspaper had said it believed the outage was the result of an "internal issue." New York Times officials said Wednesday afternoon it was "a failure during regular maintenance of NYTimes.com and not the result of a cyberattack." 
+ 
+ In a note apologizing to customers on its website, the Times said the outage "occurred within seconds of a scheduled maintenance update, which we believe was the cause." 
+ 
+ The company, which has been the target of Chinese hackers in the past, did not directly respond to multiple requests for comment from FOX Business. 
+ 
+ Cedric Leighton, a former National Security Agency official, said: "My suspicion leads me to believe that this is not really an internal issue. This is something that goes way beyond that." 
+ 
+ Leighton said it is "very rare" for an internal issue to cause this kind of damage, although he noted it is possible that someone who has internal access "could have planted malicious code." 
+ 
+ “Sometimes cyber attacks look like normal server problems. Just like when you’re missing your wallet -- was it theft or absent mindedness?” said Carl Herberger, vice president of security solutions at Radware (RDWR). 
+ 
+ Other security experts cautioned that the outage could have been caused by an internal issue, perhaps some glitch within a central control system due to the fact that email and websites are often operated on different systems. 
+ 
+ “There’s a strong likelihood that someone internally [messed] up and also probably as good of a chance that it could have been external,” said Dov Yoran, CEO of malware analysis and threat intelligence firm Threat Grid. 
+ 
+ Yoran pointed to the “internal” outages experienced by Amazon (AMZN) in 2012, where glitches in one data center caused the cloud application of Amazon and other companies to temporarily go off line. 
+ 
+ But he said it could take some time to find the precise cause of the Times’ outage. 
+ 
+ The initial response to a distributed denial of service [DDoS] or similar attacks can sometimes cause websites to go down. Leighton says an external stimulant like malware may be exasperated internally once the victim tries to shut it down. 
+ 
+ “This isn’t them just flipping something over. You don’t do a systems refresh in the middle of the news day,” said Christopher Bronk, a senior fellow at Rice University’s Baker Institute. 
+ 
+ Both the newspaper, NYTimes.com, and its corporate site, NYTco.com, were down at about 11:30 a.m. ET. The outage, which appeared as "HTTP 503 Service Unavailable," was also reported on Sitedown.co. 
+ 
+ Shares of the New York Times Co. fell 1.67% to close at $12.05 on Wednesday. 
+ 
+ It’s not clear who may have been behind the latest apparent intrusion for the Times. 
+ 
+ “They have obviously been compromised before. It doesn’t take much to rent a botnet and do an attack that just consumes the bandwidth and resources,” said Ron Gula, CEO of cyber-security firm Tenable Network Security and a former National Security Agency official. 
+ 
+ “Is someone unhappy about an article, the Times itself or the U.S. government and they see the Times as an extension of the government?” said Gula. 
+ 
+ Website outages of this type have been increasingly common at major consumer websites, including those of U.S. banks like J.P. Morgan Chase (JPM) and Bank of America (BAC). 
+ 
+ “Whatever the events of today might be, they are pointing at an environment in which all organizations need to be mindful of the increased risk of cyber attacks,” said Harriet Pearson, a partner at law firm Hogan Lovells. 
+ 
+ Attacks "can come from inside, they can come from outside. They can be sudden or only detected after a while. The kind of defenses organizations need have to be comprehensive," she said. 
+ 
+ We are having technical problems on http://t.co/lAgdG2fKQL - please follow @RobertMackey for Twitter updates on Egypt crackdown — NYTimes Lede Blog (@thelede) August 14, 2013 
+ 
+ Follow Matt Egan on Twitter @MattMEgan5 
+ 
+ Follow Jennifer Booton on Twitter at @Jbooton

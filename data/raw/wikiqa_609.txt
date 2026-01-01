@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The closest shell to the nucleus is called the "1 shell" (also called "K shell"), followed by the "2 shell" (or "L shell"), then the "3 shell" (or "M shell"), and so on farther and farther from the nucleus.

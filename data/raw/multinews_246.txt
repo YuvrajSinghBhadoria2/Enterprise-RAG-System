@@ -1,0 +1,65 @@
+Source: Multi-News
+
+When Google Inc. launched its Google+ social-networking site three weeks ago, executives handed out sailor hats to the hundreds of employees working on the project, symbolizing their year-long journey to that point. 
+ 
+ So far, the sailing has been mostly smooth. On Wednesday, Web-traffic watcher comScore Inc. estimated Google+ has had 20 million unique visitors since its launch, including five million visitors from the U.S. A Google spokeswoman declined comment. 
+ 
+ Google's rapid growth spurt on Google+ suggests that people are hungry for more social network options, WSJ's Jen Valentino-DeVries reports. 
+ 
+ ComScore, whose estimates are based on a "global measurement panel" of two million Internet users, similar to the approach Nielsen uses to measure television ratings,doesn't have data on the number of minutes people spent on Google+. 
+ 
+ Still, the growth of Google+ has impressed observers because access to it is by invitation only, meaning people can join only if a current member invites them. And the company hasn't yet marketed the service to the more than one billion monthly visitors who use its search engine, Gmail and other services. 
+ 
+ Journal Community 
+ 
+ Google+ lets people share comments, articles, photos and videos with various "circles" of friends or contacts, or they can share content publicly with any userwho wants to view their posts. Eventually, Google plans to incorporate features of Google+ in its other services, such as its YouTube video site. 
+ 
+ "I've never seen anything grow this quickly," said Andrew Lipsman, vice president of industry analysis at comScore. The only other site that has accumulated as many new visitors in a short period of time is Twitter in 2009, he said, "but that happened over several months." 
+ 
+ The new data follow comments by Google CEO Larry Page last week that Google+ had more than 10 million users.Mr. Page said Google+'s traction was evidence that there are "more opportunities for Google today than ever before." 
+ 
+ Of course, Google has a long way to go to reach the scale of Facebook Inc., which has more than 750 million users, and Twitter Inc., which has more than 200 million registered accounts. 
+ 
+ With Google+, Google is aiming to match rivals like Facebook, which used personal information posted by its members to create a multibillion-dollar advertising business that lets marketers target specific demographic groups or people with certain interests. Google also hopes the service can become a home for brands and celebrities. 
+ 
+ The data Google obtains about people's interests could also help it change the way its Web-search engine works. Sites in its search results could potentially be ranked based on what users and their friends like or find useful, Google engineers have said. 
+ 
+ View Full Image Reuters A screen shot of the Google Plus social network is shown in this publicity photo. 
+ 
+ In addition to adding numerous features over time, Google will eventually allow software developers to create "social" games and other applications that would run on top of Google+, similar to Facebook's successful "platform" for applications, people familiar with the matter have said. 
+ 
+ Google+ also has unique technology, such as a "hangouts" feature, that lets people do "video chats" using their computer webcams, speaking to numerous friends simultaneously. The company plans to include Google+ in its suite of online software for businesses. 
+ 
+ In an email to investors Tuesday, Barclays Capital equity researchers said that "given positive initial traction from users we believe Google is now better positioned to compete and integrate social cues across its products than before, which could drive increased relevancy in search going forward." 
+ 
+ Even some privacy advocates who lambasted Buzz, Google's prior social-networking effort, have lauded Google+. "The product has been designed to make it easier to share with one group of your friends while retaining some measure of privacy with respect to your family, coworkers or other groups of friends," said Peter Eckersley, a senior technologist at privacy-advocacy group Electronic Frontier Foundation, in an email. 
+ 
+ But Mr. Eckersley added: "Google+ won't be as good for protecting your privacy against Google or against governments or lawyers with the power to compel Google to turn over your information." 
+ 
+ Ben Hopper, a 29-year-old photographer in London who joined Google+ just after it launched, said "it feels a little empty right now" compared with Facebook, where he has more than 4,000 "friends." But he said that he "needs to be everywhere to show my photography," and if Google+ becomes integrated with Gmail, Google's email service, "for me it will have the upper hand." 
+ 
+ Write to Amir Efrati at amir.efrati@wsj.com ||||| The number of people on Google+ has passed 20 million according to ComScore, further validating Google's biggest attempt at social networking yet. 
+ 
+ ComScore bases its estimate on a global measurement panel of 2 million users. Google hasn't confirmed the numbers, but last week, Google CEO Larry Page said the service had more than 10 million users sharing 1 billion items per day. 
+ 
+ "I've never seen anything grow this quickly," ComScore analyst Andrew Lipsman told the Wall Street Journal. 
+ 
+ So, now what? It's clear that Google+ isn't a flop like its immediate predecessor, Google Buzz. With a steady base of users investing time in Google+, we can start to look at where the social network will be going next: 
+ 
+ Business and Brand Pages 
+ 
+ To the dismay of brands and businesses who want to reach the quickly-growing Google+ audience, Google is restricting its social network to personal use and banning accounts that appear to be tied to a business. 
+ 
+ Google promises to have a system for all businesses and brands in the coming months. "The platform at the moment is not built for the business use case, and we want to help you build long-term relationships with your customers," Google Group Product Manager Christian Oestlien wrote. "Doing it right is worth the wait." 
+ 
+ Games 
+ 
+ It's kind of an open secret that Google+ will become a place to play social games, with hints found in the service's source code and help pages. 
+ 
+ How exactly Google+ will attack the Facebook gaming juggernaut is unclear, but Google has reportedly pumped hundreds of millions of dollars into Farmville maker Zynga, and is rumored to be creating a separate "games" stream in Google+ so your friends won't have to hear about the status of your farm unless they want to. 
+ 
+ Integration With Other Services 
+ 
+ Over time, Google is expected to hook its existing services into the social backbone of Google+, allowing users to share Google Docs documents, YouTube videos, and more with the circles they've created on the social network. For now, integration is limited to the notification boxes that appear atop Gmail, Maps, and other services, but over time expect Google+ tie-ins to grow deeper. 
+ 
+ Follow Jared on Facebook and Twitter as well as Today @ PCWorld for even more tech news and commentary.

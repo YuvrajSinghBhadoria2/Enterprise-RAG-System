@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The original purpose was to authenticate a document, a wrapper for one such as a modern envelope, or the cover of a container or package holding valuables or other objects.

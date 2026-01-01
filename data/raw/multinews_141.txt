@@ -1,0 +1,71 @@
+Source: Multi-News
+
+Please note: As of January 20, 2017, information in some news releases may be out of date or not reflect current policies. 
+ 
+ US Department of Labor sues Oracle America Inc. for discriminatory employment practices 
+ 
+ Lawsuit could cost company millions in federal contracts 
+ 
+ SAN FRANCISCO – The U.S. Department of Labor has filed a lawsuit against Oracle America, Inc. alleging the leading technology company has a systemic practice of paying Caucasian male workers more than their counterparts in the same job title, which led to pay discrimination against female, African American and Asian employees. The suit also challenges Oracle’s systemic practice of favoring Asian workers in its recruiting and hiring practices for product development and other technical roles, which resulted in hiring discrimination against non-Asian applicants. 
+ 
+ Oracle designs, manufactures, and sells software and hardware products, as well as offers services related to its products to the federal government. 
+ 
+ The lawsuit filed by the department’s Office of Federal Contract Compliance Programs is the result of an OFCCP compliance review of Oracle’s equal employment opportunity practices at its Redwood Shores headquarters. During the investigation – which began in 2014 – Oracle also refused to comply with the agency’s routine requests for employment data and records. For example, Oracle refused to provide prior-year compensation data for all employees, complete hiring data for certain business lines, and employee complaints of discrimination. OFCCP attempted for almost a year to resolve Oracle’s alleged discrimination violations before filing the suit. 
+ 
+ Oracle has received hundreds of millions in federal government contracts. As a federal contractor, Oracle is prohibited from engaging in employment discrimination on the basis of race, color, sex, sexual orientation or gender identity or national origin and is required to take affirmative action to ensure that equal employment opportunity is provided to applicants and employees in all aspects of employment. If Oracle fails to provide relief as ordered in the lawsuit, OFCCP requests that all its government contracts be canceled and that it be debarred from entering into future federal contracts. 
+ 
+ “Federal contractors are required to comply with all applicable anti-discrimination laws,” said OFCCP Acting Director Thomas M. Dowd. “We filed this lawsuit to enforce those requirements.” 
+ 
+ Filed with the Office of Administrative Law Judges, the complaint asks the court to enjoin Oracle permanently from discriminating against females, African Americans and Asians in compensation practices and against African American, Hispanic and Caucasian applicants in hiring practices. OFCCP is also seeking complete relief for the affected class including lost wages, stock, interest, front wages, salary adjustments, promotions and all other lost benefits of employment and a reform of discriminatory policies. 
+ 
+ The complaint can be viewed here. 
+ 
+ OFCCP enforces Executive Order 11246, Section 503 of the Rehabilitation Act of 1973 and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974. These laws, as amended, make it illegal for contractors and subcontractors doing business with the federal government to discriminate in employment because of race, color, religion, sex, sexual orientation, gender identity, national origin, disability or status as a protected veteran. In addition, contractors and subcontractors are prohibited from discriminating against applicants or employees because they have inquired about, discussed or disclosed their compensation or that of others, subject to certain limitations. For more information, please call OFCCP’s toll-free helpline at 800-397-6251 or visit http://www.dol.gov/ofccp/. ||||| Oracle is the latest technology company to face scrutiny from the U.S. government over its hiring practices. 
+ 
+ The Department of Labor is suing Oracle (ORCL) for allegedly paying white men more than other employees and discriminating against non-Asian job applicants when hiring for technical roles. 
+ 
+ The lawsuit stems from Oracle's role providing cloud computing software to federal agencies, totaling "hundreds of millions" in contracts, according to the Department of Labor. 
+ 
+ As a federal contractor, Oracle is obligated to show the government that its hiring doesn't discriminate based on race, religion, sexual orientation, gender and more. 
+ 
+ The legal complaint asks the court to order the cancellation of all of Oracle's federal contracts unless it prohibits discriminatory hiring practices and makes up for lost compensation and employment benefits to those affected. 
+ 
+ "The complaint is politically motivated, based on false allegations, and wholly without merit," Deborah Hellinger, a spokeswoman for Oracle, said in a statement provided to CNNMoney. "Oracle values diversity and inclusion, and is a responsible equal opportunity and affirmative action employer." 
+ 
+ Related: Trump sits down with top Silicon Valley execs 
+ 
+ Earlier this month, the Department of Labor filed a lawsuit against Google (GOOGL), pressuring it to turn over compensation data on its employees. The agency also sued Palantir, a data software startup, in September for allegedly discriminating against Asian applicants. 
+ 
+ All three tech companies are federal contractors. Two of the three are overseen by executives close to the incoming Trump administration. Palantir cofounder Peter Thiel and Oracle co-CEO Safra Catz are both on Donald Trump's transition team. 
+ 
+ The series of government lawsuits comes as Silicon Valley is very publicly trying -- and often failing -- to improve its diversity. Annual transparency reports from many of the big companies reveal the tech industry remains largely white and male. 
+ 
+ The increased media attention may be influencing the Department of Labor as well. 
+ 
+ "They read the same stories that everyone else reads. It's something I'm sure they take note of," says D. Michael Hancock, a former Department of Labor official who now works as a lawyer at Cohen Milstein. "They probably said, 'Now that we're getting [employee] complaints, we should take a closer look.' " ||||| Jan 18 (Reuters) - The U.S. Department of Labor on Wednesday filed a lawsuit against JPMorgan Chase & Co claiming the bank engaged in pay discrimination against women. 
+ 
+ The department in a complaint filed with an administrative judge said New York-based JPMorgan has paid at least 93 women in four different job categories less than comparable male coworkers over the last five years. (Reporting by Daniel Wiessner in Albany, New York, Editing by Alexia Garamfalvi) ||||| Just two weeks after filing suit against Google, the Department of Labor has brought suit against another big tech company: Oracle. On Wednesday morning the agency filed a complaint of racial discrimination against the database giant, which employs some 45,000 people in the US. 
+ 
+ 
+ 
+ The complaint alleges that Oracle engaged a "systemic practice of paying Caucasian male workers more than their counterparts in the same job title," resulting in pay discrimination against women and African-American and Asian employees, especially in technical and product development positions. 
+ 
+ The complaint further alleges that Oracle favors Asian applicants — "particularly Asian Indians" — when hiring, in part because "targeted recruitment, and referral bonuses ... encouraged its heavily Asian workforce to recruit other Asians." 
+ 
+ In a statement, Oracle spokesperson Deborah Hellinger denied allegations of discrimination, decrying the Department of Labor's complaint as "politically motivated, based on false allegations, and wholly without merit. Oracle values diversity and inclusion, and is a responsible equal opportunity and affirmative action employer, Our hiring and pay decisions are non-discriminatory and made based on legitimate business factors including experience and merit." 
+ 
+ 
+ 
+ Oracle CEO Safra Catz joined President-elect Donald Trump's transition team last month, following a meeting between Trump and leaders in the tech industry. "I plan to tell the president-elect that we are with him and will help in any way we can," Catz said ahead of the meeting. "If he can reform the tax code, reduce regulation and negotiate better trade deals, the US technology industry will be stronger and more competitive than ever.” 
+ 
+ 
+ 
+ Oracle has many contracts with the federal government, which are worth hundred of millions of dollars. As such, the company has to meet certain requirements when it comes to equal employment opportunity and the provision of certain data. The Department of Labor in its complaint alleges that Oracle "refused to produce" compensation data, hiring data, and "any material demonstrating whether or not it had performed an in-depth review of its compensation practices." 
+ 
+ If government contractors don't provide necessary information, the government can sue — and it has, filing similar suits against Google earlier this month and Palantir last fall. The agency also sued JPMorgan today over similar allegations of gender pay discrimination. 
+ 
+ 
+ 
+ The Department of Labor itself is in a transitional moment, with Trump's inauguration coming up on Friday and the Obama administration on its way out. The confirmation of Trump's pick for labor secretary, Andrew Puzder, has been delayed following revived accusations of spousal abuse and reports that widespread criticism from unions and Democrats has left Puzder less than enthusiastic about taking the job. (Puzder has more or less denied these claims.) 
+ 
+ Oracle, meanwhile, did not immediately respond to a BuzzFeed News request for recent diversity numbers. According to the company's website, less than a third of the company is female, but 37% of its staff are "minority employees." Whether Oracle includes Asians in the "minority employees" category is unclear. Oracle's diversity website makes no mention of compensation parity.

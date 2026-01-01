@@ -1,0 +1,3 @@
+Source: WikiQA
+
+This is a horizontal acceleration of 5.3 g. Combined with the vertical g-force in the stationary case the Pythagorean theorem yields a g force of 5.4 g.

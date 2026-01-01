@@ -1,0 +1,3 @@
+Source: WikiQA
+
+These subsea solutions may consist of one or more subsea wells, or of one or more manifold centres for multiple wells.

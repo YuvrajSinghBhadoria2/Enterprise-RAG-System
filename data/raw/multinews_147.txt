@@ -1,0 +1,73 @@
+Source: Multi-News
+
+Conclusions Our analysis of 15 pieces of dried porcini mushrooms from a single commercial packet showed three species corresponding to lineages that although previously reported in phylogenetic analyses have never been formally named or described until now. The recognition of these species enables them to be monitored in foods and facilitates countries’ adherence to international agreements on exploitation of wildlife, i.e., the Convention on Biological Diversity. 
+ 
+ Supplemental Information Aligned sequences in Phylip format This is a file containing aligned ITS sequences used for the phylogenetic analyses. DOI: 10.7717/peerj.570/supp-1 Download ||||| For lovers of wild foods, autumn means things like mushrooms and fungi of dizzying variety. 
+ 
+ 
+ 
+ Intrepid treasure hunters scour the woods in search of delectable wild mushrooms and their not-quite-meat, not-quite-vegetable qualities. 
+ 
+ 
+ 
+ A bonus: If you find some, you may be eating something not even known to science. 
+ 
+ The Fungi Kingdom is enormously diverse and completely under-documented. Species are tough to know, and that is without counting the billions that have gone extinct without us ever knowing about them, but of the 10 million species likely out there, only about 100,000 have been described. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mushrooms are one the most conspicuous and well known groups of Fungi and make up around 16,000 named species, but only a handful of these species are well documented. With estimated rates of Fungi extinction exceeding current rates of description, the enormity and urgency of the task of accurate identification cannot be overstated. New approaches that accelerate the documentation and description of new species are desperately needed before it is too late. 
+ 
+ 
+ 
+ So how well do we really know the mushrooms? In an article published today in PeerJ, Mycologists Bryn Dentinger and Laura Martinez-Suz from the Royal Botanic Gardens, Kew in London set out to ask this question by using DNA-based taxonomy. But instead of venturing into the wild in search of never before seen species, they simply went to a local grocer and bought a packet of dried porcini whose intended destiny was more likely a rich risotto than a DNA sequencer. 
+ 
+ Some of the most sought-after of wild mushrooms are the sweet and nutty Boletus edulis and allies, often referred to by the Italian common name porcini. Dentinger has been studying porcini for over 10 years and knew that if the porcini in this packet originated in China, they were likely to be made up of unnamed species. But how many species could be detected in the packet and how quickly could diagnosing and describing them be accomplished? 
+ 
+ Drs Dentinger and Suz arbitrarily selected 15 pieces of mushroom from the packet and sequenced the fungal DNA barcode region for each. They then compared these sequences to sequences in the International Nucleotide Sequence Database and classified them based on evolutionary relationships. This revealed three distinct species, none of which were known to science, or had scientific names. To expedite the formal naming process required by the International Code of Nomenclature for algae, fungi and plants, the researchers used a rapid e-publishing tool that facilitates immediate name registration and species diagnosis to satisfy the rules of the Code. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ "This study demonstrates that the whole procedure, from unknown mushrooms to names, can be done rapidly – we did this in under a week, but if push came to shove, it could be done in a day" said Dentinger. 
+ 
+ Hundreds of thousands of tons of porcini are collected from the wild and sold around the world every year, most of it ending up in Europe and North America. Although typically composed of five well-known species native to these regions (B. aereus, B. edulis, B. pinophilus, B. reticulatus, B. rex-veris), around half of all porcini traded in Europe originates in China. 
+ 
+ 
+ 
+ These porcini, typically collected from the wild in Yunnan province, have been exported to Europe since the 1970s yet until last December, none of them had scientific names. The researchers named them with Chinese epithets referring to local common names for porcini (Boletus meiweiniuganjun, Boletus bainiugan) and the Chinese word for 'edible' (Boletus shiyong). 
+ 
+ As Dr Dentinger put it, "our results demonstrate just how ubiquitous unknown fungal diversity is – it can literally be found right under our noses." 
+ 
+ The researchers hope that by demonstrating the rapid identification and naming of new Fungi species in this way, others in the community will be inspired to continue the important work of identifying new Fungi species before they get eaten....errrr, disappear. ||||| What's a good place to look for undiscovered species? Remote rainforests? The deep ocean? What about your local grocery store? 
+ 
+ That's where Bryn Dentinger and Laura Martinez-Suz, mycologists at the Royal Botanic Gardens, Kew, in London, recently discovered three new kinds of mushroom. 
+ 
+ They were found in a package of dried porcini mushrooms from a grocery store in "southwest greater London" that the scientists tested using a technique called DNA barcoding. Dentinger had previously used the technique while researching mushrooms at the Royal Ontario Museum and the University of Toronto. 
+ 
+ A typical porcini (Boletus edulis var. clavipes) is shown in its natural habitat in Algonquin Provincial Park in Ontario. (Brent Dentinger/Royal Botanical Gardens, Kew) 
+ 
+ The technique involves matching the DNA profile of a sample to a database of known species in order to identify the sample. But in three out of 15 pieces tested from the porcini mushroom package, no match was found. 
+ 
+ "None of them had scientific names, so these were essentially new species to science," Dentiger told CBC science columnist Torah Kachur. "And we found three different species in the 15 pieces that we sampled from." 
+ 
+ CBC science columnist Torah Kachur 
+ 
+ The team published their results in the journal PeerJ. 
+ 
+ As it turns out, "porcini" is "a gastronomical label more than it is scientific," Kachur told CBC's The Homestretch. "What the Italians originally called porcinis were this unique flavour of nutty type of mushroom." 
+ 
+ On the other hand, porcini mushrooms do tend to belong to a family of mushrooms known by scientists as boletes, which have tubes on their undersides instead of gills. 
+ 
+ "Even though we don't necessarily know those species, all of them are certainly safe for consumption," Kachur said. 
+ 
+ She said the new findings suggest that mushrooms are more diverse than scientists thought. It also highlights one of the mysteries of mushroom evolution. 
+ 
+ "What is the evolutionary history that means they look the same and yet they are very genetically different?" Kachur mused. "We don't have the answer for that."

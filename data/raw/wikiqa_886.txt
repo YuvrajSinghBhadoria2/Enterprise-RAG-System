@@ -1,0 +1,3 @@
+Source: WikiQA
+
+g-force (with g from gravitational) is a term for accelerations felt as weight and measurable by accelerometers .

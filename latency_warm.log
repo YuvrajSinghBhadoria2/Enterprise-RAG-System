@@ -1,0 +1,22 @@
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Initializing Pipeline (should use Pinecone)...
+Successfully connected to Pinecone.
+
+Querying: what is Emerging Contaminants according to DOD?
+Retrieving for query: what is Emerging Contaminants according to DOD?
+⏱️ Retrieval took: 2.77s
+⏱️ Reranking took: 0.67s
+⏱️ LLM Generation took: 1.49s
+
+--- Result ---
+Answer: According to the context, Emerging Contaminants are materials that DOD has assessed and judged to have a significant potential impact on people or DOD's mission. The current list includes five contaminants: perchlorate, TCE, RDX, naphthalene, and hexavalent chromium.
+Retrieval Score: 5.500270843505859
+Contexts Retrieved: 5
+Top Context: was to create an Emerging Contaminant Action List of materials that DOD has assessed and judged to have a significant potential impact on people or DOD’s mission. The current list includes five contam...

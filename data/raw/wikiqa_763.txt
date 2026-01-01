@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Once the protein is produced, it can then 'fold' to produce a specific functional three-dimensional structure.

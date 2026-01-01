@@ -1,0 +1,135 @@
+Source: Multi-News
+
+Technically Incorrect offers a slightly twisted take on the tech that's taken over our lives. 
+ 
+ Enlarge Image Mark Zuckerberg/Facebook 
+ 
+ Instagram now has 500 million users. 
+ 
+ This is a time for celebration. At least, for Facebook CEO Mark Zuckerberg. 
+ 
+ After all, his company owns the site where we're desperate to share pictures of our tacos and toenails. 
+ 
+ Zuckerberg may not be so keen to share images of himself at work. 
+ 
+ I deduce this from the picture that he posted to accompany his joy. 
+ 
+ He appears to be sitting at his desk, holding a frame hurriedly provided by his PR people. 
+ 
+ But, as the deeply observant Chris Olson pointed out on Twitter, his laptop appears to have its webcam taped over. His mic jack is covered over too. 
+ 
+ Could it be that the man who encourages humanity to share, well, everything isn't so keen on its himself? 
+ 
+ Facebook didn't immediately respond to a request for comment. 
+ 
+ As Gizmodo noticed, the desk does bear some resemblance to a Facebook Live tour of his desk that Zuckerberg gave last September. 
+ 
+ Yes, Facebook Live. That's the company's latest wheeze to get you to be all-Facebook, all the time. 
+ 
+ Taping up your webcam is an excellent precaution, should you worry that someone might hack into your laptop. FBI director James Comey recommends it. 
+ 
+ When even high schools have been accused of spying on their students at home, simple archaic methods can create some security. 
+ 
+ In Tuesday's Facebook post, Zuckerberg pays tribute to "people everywhere who have opened a window into their world." 
+ 
+ It appears he accepts that there are times when your windows should remains shut and the drapes tightly drawn. 
+ 
+ I wonder if he has special Zuck tape. ||||| Stickers and slides serve to ease concerns that spooks could be watching our every move, as even the FBI director says he puts tape on his camera 
+ 
+ For the past half decade, the technology industry has been racing to build better cameras into the hardware we use every day. 
+ 
+ Yet the surveillance age has inspired an odd cottage industry battling against this trend: a glut of cheap stickers and branded plastic slides designed to cover up the front-facing cameras on phones, laptops and even televisions. 
+ 
+ For years, security researchers have shown that hackers can hijack the cameras to spy on whomever is on the other end. To put that in perspective, think of all the things your devices have seen you do. 
+ 
+ Such warnings have finally caught on. Last month, the FBI director, James Comey, told an audience: “I put a piece of tape over the camera because I saw somebody smarter than I am had a piece of tape over their camera.” 
+ 
+ The corporate swag company Idea Stage Promotions describes its Webcam Cover 1.0 as “the HOTTEST PROMOTIONAL ITEM on the market today”. The cable channel USA Networks sent journalists a “Mr Robot” webcam cover for the popular hacker thriller’s upcoming season. 
+ 
+ Christine Champagne (@itsthechampagne) This Mr. Robot webcam cover I got from @USA_Network is the most clever TV promo item I have received in a long time! pic.twitter.com/pBL3mcUsv9 
+ 
+ Covering cameras isn’t new for those who know that the internet is always watching. Eva Galperin, a policy analyst for the Electronic Frontier Foundation, says that since she bought her first laptop with a built-in camera on the screen, a MacBook Pro, in 2007, she’s been covering them up. 
+ 
+ EFF started printing its own webcam stickers in 2013, as well as selling and handing out camera stickers that read: “These removable stickers are an unhackable anti-surveillance technology.” 
+ 
+ “People purchase these regularly,” a spokesman said. 
+ 
+ The fear over web cameras has penetrated deep into popular culture. The trailer for Oliver Stone’s forthcoming biopic Snowden, on the US spy contractor, features a clip of actor Joseph Gordon-Levitt, who plays the title character, looking nervously at his laptop camera during an intimate moment with his girlfriend. 
+ 
+ So are we all being paranoid? Well, it’s not science fiction. Researchers in 2013 showed how they could activate a Macbook’s camera without triggering the green “this-thing-is-on” light. One couple claimed a hacker posted a video of them having sex after hacking their smart TV. And federal court records shows that the FBI does know how to use laptop cameras to spy on users as well. 
+ 
+ So, naturally, where there’s fear, there is money to be made. 
+ 
+ The DC-based CamPatch describes itself as “the Mercedes Bens [sic] of putting tape over your webcam”. Its founders started the company in 2013 after hearing a briefing from Pentagon cybersecurity experts on how webcams were a new “attack vector”, said Krystie Caraballo, CamPatch’s general manager. 
+ 
+ Caraballo wouldn’t disclose financials other than to say the company has had “six-figure revenues for the last several years” and that it has distributed more than 250,000 patches. The company advertises bulk pricing “as low as $2.79”. 
+ 
+ Yet not everyone is on the camera-covering bandwagon. Brian Pascal, a privacy expert who has worked for Stanford and Palantir Technologies says a cost-benefit analysis led him conclude he’d rather have a usable camera, which he can use to record his son. But he acknowledged such stickers are a way for people signal that they too worry about Big Brother. 
+ 
+ “Security actions without threat modelling are just performative,” said Pascal. 
+ 
+ Others just haven’t gotten around to it yet. 
+ 
+ “Because I’m an idiot,” replied Matthew Green, an encryption expert at Johns Hopkins University when asked why he doesn’t cover his cameras. “I have no excuse for not taking this seriously ... but at the end of the day, I figure that seeing me naked would be punishment enough.” 
+ 
+ Of course, webcam paranoia is likely to be only the first of many awakenings as consumers bring more devices into their lives that can be turned into unwitting spies. Amazon.com has had enormous success with its Echo smart speaker that, by default, is always listening for its owners’ commands. Google plans to release a similar product this year called Google Home. 
+ 
+ In a hearing on Capitol Hill in February, the US director of national intelligence, James Clapper, acknowledged how the so-called “internet of things” could be used “for identification, surveillance, monitoring, location tracking, and targeting for recruitment, or to gain access to networks or user credentials”. ||||| See more of Mark Zuckerberg on Facebook ||||| Why The FBI Director Puts Tape Over His Webcam 
+ 
+ FBI Director James Comey gave a speech this week about encryption and privacy, repeating his argument that "absolute privacy" hampers law enforcement. But it was an offhand remark during the Q&A; session at Kenyon College that caught the attention of privacy activists: 
+ 
+ The thought of the FBI chief taping over his webcam is an arresting one for many. 
+ 
+ His comment Wednesday (which is around the 1:34:45 mark in this video) was in response to a question about growing public awareness of the ways technology can spy on people, and he acknowledged sharing in the surveillance anxiety. 
+ 
+ "I saw something in the news, so I copied it. I put a piece of tape — I have obviously a laptop, personal laptop — I put a piece of tape over the camera. Because I saw somebody smarter than I am had a piece of tape over their camera." 
+ 
+ It's certainly not unreasonable to worry about webcams, especially for someone as high-profile as Comey. The FBI itself has used malware to hack into cameras to spy on targets. 
+ 
+ For privacy activists, the real problem is what they see as Comey's hypocrisy. He says tech companies shouldn't make devices that are "unhackable" to law enforcement (the fight over the San Bernardino iPhone 5C being the major case in point), but the activists say that's exactly what he's done with his personal webcam. 
+ 
+ Christopher Soghoian, principal technologist and a senior policy analyst with the ACLU Speech, Privacy, and Technology Project, accused Comey of having a double standard for his own privacy: 
+ 
+ He piled on with a little Twitter sarcasm: 
+ 
+ It's worth noting that Comey made the webcam remark in the context of a larger comment about the need for the public to keep an eye on how government uses its surveillance powers. "[The public should] demand to know how the government conducts surveillance. Demand to know how they're overseen, how they're constrained. Demand to know how these devices work," he said. 
+ 
+ But as the San Bernardino iPhone fight made clear, the privacy debate in the U.S. is no longer just about legal processes and judicial oversight. It's about whether unhackable devices should be allowed to exist, warrant or no warrant. And a taped-over webcam is about as unhackable as a device can get. ||||| Security experts supported the taping, for a few good reasons: 
+ 
+ • The first is that Mr. Zuckerberg is a high-value target. 
+ 
+ “I think Zuckerberg is sensible to take these precautions,” Graham Cluley, an online security expert and consultant, wrote in an email Wednesday. “As well as intelligence agencies and conventional online criminals who might be interested in targeting his billions, there are no doubt plenty of mischievous hackers who would find it amusing to spy upon such a high-profile figure.” 
+ 
+ • The second is that covering photo, video and audio portals has long been a basic and cheap security safeguard. 
+ 
+ “Covering the camera is a very common security measure,” Lysa Myers, a security researcher at the data security firm ESET, said in an email. “If you were to walk around a security conference, you would have an easier time counting devices that don’t have something over the camera.” 
+ 
+ • Third, Mr. Zuckerberg is not immune to security breaches. 
+ 
+ A recent hacking of his Twitter and LinkedIn accounts shows that he most likely committed two basic privacy faux pas: He may have used the same password across several websites and did not use two-factor authentication. 
+ 
+ Judging from his photo, however, it appears that Mr. Zuckerberg was taking simple precautions to protect himself from anyone who may try to gain remote access. The practice is fairly technologically simple: Hackers trick people into clicking on links or unfamiliar websites containing malware that allows them access to the devices. ||||| Tweet with a location 
+ 
+ You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history. Learn more ||||| On Tuesday, Facebook CEO Mark Zuckerberg posted a cutesy photo to Facebook celebrating Instagram’s now having half a billion users. It featured Zuck posing inside an IRL Instagram frame. It also featured, in the background, what we can assume is Zuck’s computer. And it features a couple of paranoid add-ons, as noted by Twitter user Chris Olson. 
+ 
+ 3 things about this photo of Zuck: Camera covered with tape 
+ 
+ Mic jack covered with tape 
+ 
+ Email client is Thunderbird pic.twitter.com/vdQlF7RjQt — Chris Olson (@topherolson) June 21, 2016 
+ 
+ Indeed. His Macbook has tape on it. 
+ 
+ One of these is well-placed tape; the other, not necessarily. 
+ 
+ Putting tape over your webcam is a great idea and EVERYONE should do it. Even the FBI director does it. If a hacker manages to get into your computer, it will be hell for you, but this is a super simple way to keep them from taking photos of you, especially naked ones that could later be used to embarrass, harass or blackmail you. (It won’t prevent them from stealing existing photos from your computer, however, so make sure you’re encrypting your naked selfies.) 
+ 
+ So, good job, Zuck. It almost makes us forgive your alleged mistake of using the password “dadada” on multiple accounts. 
+ 
+ However, putting tape over your microphone jack is not going to be effective in making your computer hacker-proof. That’s just going to keep someone from plugging their headphones into your machine. If Olson is wrong, and Zuck has in fact put tape over the mic holes, though, that will muffle the computer’s hearing ability, per a test conducted in our office. 
+ 
+ If you’re really paranoid and want to completely kill the omnidirectional microphone, you’d actually need to do some computer surgery. 
+ 
+ “The paranoid people I know either cut the wire or use hot glue,” said ACLU technologist Chris Soghoian via Twitter direct message. Try at your own risk. 
+ 
+ It’s more likely that Zuckerberg has tape over the mic holes, because tape alone over the mic jack is just going to make it annoying for you to listen to music privately, not make it impossible for hackers to listen to you.

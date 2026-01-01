@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Ribosomes consist of two major subunits—the small ribosomal subunit reads the mRNA, while the large subunit joins amino acids to form a polypeptide chain.

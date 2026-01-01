@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The g-force acceleration acts as a multiplier of weight-like forces for every unit of an object's mass, and (save for certain electromagnetic force influences) is the cause of an object's acceleration in relation to free-fall .

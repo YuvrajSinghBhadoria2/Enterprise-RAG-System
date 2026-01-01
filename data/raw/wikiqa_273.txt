@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Play continues until a team or player reaches the score of 21.

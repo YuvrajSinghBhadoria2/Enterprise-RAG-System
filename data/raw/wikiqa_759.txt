@@ -1,0 +1,3 @@
+Source: WikiQA
+
+The sequence of DNA encoding for a protein may be copied many times into messenger RNA (mRNA) chains of a similar sequence.

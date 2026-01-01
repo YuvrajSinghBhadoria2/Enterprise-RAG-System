@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Another way of saying that a (non-negative) number is a square number, is that its square roots are again integers.

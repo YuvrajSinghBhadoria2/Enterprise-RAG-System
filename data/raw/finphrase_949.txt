@@ -1,0 +1,3 @@
+Source: FinancialPhrasebank
+
+Currency conversions are based on exchange rates at the time of the deal .

@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Each shell can contain only a fixed number of electrons: The 1st shell can hold up to two electrons, the 2nd shell can hold up to eight electrons, the 3rd shell can hold up to 18, and 4th shell can hold up to 32 and so on.

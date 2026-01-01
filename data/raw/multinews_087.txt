@@ -1,0 +1,69 @@
+Source: Multi-News
+
+WASHINGTON—Insurers and some states are continuing to look for ways to bypass the balky technology underpinning the health-care law despite the Obama administration's claim Sunday that it had made "dramatic progress" in fixing the federal insurance website. 
+ 
+ Federal officials said they had largely succeeded in repairing parts of the site that had most snarled users in the two months since its troubled launch, but acknowledged they only had begun to make headway on the biggest underlying problems: the... ||||| Weeks of frantic technical work appear to have made the governmentâ€™s health care website easier for consumers to use. But that does not mean everyone who signs up for insurance can enroll in a health plan. 
+ 
+ The problem is that the systems that are supposed to deliver consumer information to insurers still have not been fixed. And with coverage for many people scheduled to begin in just 30 days, insurers are worried the repairs may not be completed in time. 
+ 
+ â€śUntil the enrollment process is working from end to end, many consumers will not be able to enroll in coverage,â€ť said Karen M. Ignagni, president of Americaâ€™s Health Insurance Plans, a trade group. 
+ 
+ The issues are vexing and complex. Some insurers say they have been deluged with phone calls from people who believe they have signed up for a particular health plan, only to find that the company has no record of the enrollment. Others say information they received about new enrollees was inaccurate or incomplete, so they had to track down additional data â€” a laborious task that will not be feasible if data is missing for tens of thousands of consumers. 
+ 
+ In still other cases, insurers said, they have not been told how much of a customerâ€™s premium will be subsidized by the government, so they do not know how much to charge the policyholder. 
+ 
+ In trying to fix HealthCare.gov, President Obama has given top priority to the needs of consumers, assuming that arrangements with insurers can be worked out later. 
+ 
+ The White House announced on Sunday that it had met its goal for improving HealthCare.gov so the website â€świll work smoothly for the vast majority of users.â€ť 
+ 
+ In effect, the administration gave itself a passing grade. Because of hundreds of software fixes and hardware upgrades in the last month, it said, the website â€” the main channel for people to buy insurance under the 2010 health care law â€” is now working more than 90 percent of the time, up from 40 percent during some weeks in October. 
+ 
+ Jeffrey D. Zients, the presidential adviser leading the repair effort, said he had shaken up management of the website so the team was now â€śworking with the velocity and discipline of a high-performing private sector company.â€ť 
+ 
+ Mr. Zients said 50,000 people could use the website at the same time and that the error rate, reflecting the failure of web pages to load properly, was consistently less than 1 percent, down from 6 percent before the overhaul. 
+ 
+ Pages on the site generally load faster, in less than a second, compared with an average of eight seconds in late October, Mr. Zients said. 
+ 
+ Whether Mr. Obama can fix his job approval ratings as well as the website is unclear. Public opinion polls suggest he may have done more political damage to himself in the last two months than Republican attacks on the health care law did in three years. 
+ 
+ People who have tried to use the website in the last few days report a mixed experience, with some definitely noticing improvements. 
+ 
+ â€śEvery week, itâ€™s been getting better,â€ť said Lynne M. Thorp, who leads a team of counselors, or navigators, in southwestern Florida. â€śItâ€™s getting faster, and nobodyâ€™s getting kicked out.â€ť 
+ 
+ But neither Mr. Zients nor the Department of Health and Human Services indicated how many people were completing all the steps required to enroll in a health plan through the federal site, which serves residents of 36 states. 
+ 
+ And unless enrollments are completed correctly, coverage may be in doubt. 
+ 
+ For insurers the process is maddeningly inconsistent. Some people clearly are being enrolled. But insurers say they are still getting duplicate files and, more worrisome, sometimes not receiving information on every enrollment taking place. 
+ 
+ â€śHealth plans canâ€™t process enrollments they donâ€™t receive,â€ť said Robert Zirkelbach, a spokesman for Americaâ€™s Health Insurance Plans. 
+ 
+ Despite talk from time to time of finding some sort of workaround, experts say insurers have little choice but to wait for the government to fix these problems. The insurers are in â€śan unenviable position,â€ť said Brett Graham, a managing director at Leavitt Partners, which has been advising states and others on the exchanges. â€śAlthough they donâ€™t have the responsibility or the capability to fix the system, theyâ€™re reliant on it.â€ť 
+ 
+ Insurers said they were alarmed when Henry Chao, the chief digital architect for the federal website, estimated that 30 to 40 percent of the federal insurance marketplace was still being built. He told Congress on Nov. 19 that the government was still developing â€śthe back-office systems, the accounting systems, the payment systemsâ€ť needed to pay insurers in January. 
+ 
+ While insurers will start covering people who pay their share of the premium, many insurers worry that the government will be late on the payments they were expecting in mid-January for the first people covered. 
+ 
+ â€śWe want to be paid,â€ť said one executive, speaking frankly on the condition of anonymity. â€śIf we want to pay claims, we need to get paid.â€ť 
+ 
+ Insurers said they had received calls from consumers requesting insurance cards because they thought they had enrolled in a health plan through the federal website, but the insurers said they had not been notified. 
+ 
+ â€śSomehow people are getting lost in the process,â€ť the insurance executive said. â€śIf they go to a doctor or a hospital and we have no record of them, that will be very upsetting to consumers.â€ť 
+ 
+ Thomas W. Rubino, a spokesman for Horizon Blue Cross Blue Shield of New Jersey, which says it has about 70 percent of the individual insurance market in the state, said the company had received â€śsome but not a lotâ€ť of enrollments from the federal exchange. 
+ 
+ Federal officials are encouraging insurers to let consumers sign up directly with them. But in the middle of this online enrollment process, consumers must be transferred to the federal website if they want to obtain tax credit subsidies to pay some or all of their premiums in 2014. 
+ 
+ In a document describing problems with the federal website in late November, the administration said some consumers were â€śincorrectly determined to be ineligible forâ€ť tax credits. In some cases, it said, enrollment notices sent to insurers were missing the amount of the premium to be paid by a consumer, the amount of subsidies to be paid by the government and even the identification number for a subscriber. 
+ 
+ In some cases, according to the document, government computers blocked the enrollment of people found eligible for subsidies that would pay the entire amount of their premiums. In other cases, the government system failed to retrieve information on a consumerâ€™s eligibility for financial assistance. 
+ 
+ Mr. Zients said that software fixes installed on Saturday night should improve not only the consumer experience, but also the â€śthe back end of the system,â€ť which consumers rarely see. 
+ 
+ Ben Jumper, 29, of Dallas, said he had repeatedly been thwarted trying to use HealthCare.gov, most recently on Wednesday. 
+ 
+ â€śI would get one or two steps further along, and then something else would be broken,â€ť Mr. Jumper said. â€śIt is not very user-friendly. It is not very intuitive. Eventually, we just gave up.â€ť 
+ 
+ But Urian Diaz Franco, a navigator with VNA Health Care in Aurora, Ill., said on Saturday, â€śWeâ€™ve seen nothing but improvements.â€ť 
+ 
+ A week ago, he said, it often took 10 to 15 seconds for a page to load, but â€śnow itâ€™s just boom, boom, boom â€” it comes up as soon as you click the button.â€ť

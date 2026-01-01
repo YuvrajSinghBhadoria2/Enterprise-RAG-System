@@ -1,0 +1,80 @@
+Source: Multi-News
+
+APS March Meeting 2015 Volume 60, Number 1 Monday–Friday, March 2–6, 2015; San Antonio, Texas 
+ 
+ Session S48: Focus Session: Physics of Evolutionary and Population Dynamics I 
+ 
+ 8:00 AM–11:00 AM, Thursday, March 5, 2015 
+ 
+ Room: 217C 
+ 
+ 
+ 
+ Sponsoring Unit: DBIO 
+ 
+ Chair: Michel Pleimliung, Virginia Tech University 
+ 
+ 
+ 
+ Abstract ID: BAPS.2015.MAR.S48.8 
+ 
+ 
+ 
+ Abstract: S48.00008 : The Statistical Mechanics of Zombies 
+ 
+ 9:24 AM–9:36 AM 
+ 
+ 
+ 
+ Preview Abstract Abstract 
+ 
+ Authors: 
+ 
+ Alexander A. Alemi 
+ 
+ (Cornell University) 
+ 
+ Matthew Bierbaum 
+ 
+ (Cornell University) 
+ 
+ Christopher R. Myers 
+ 
+ (Cornell University) 
+ 
+ James P. Sethna 
+ 
+ (Cornell University) 
+ 
+ We present results and analysis from a large scale exact stochastic dynamical simulation of a zombie outbreak. Zombies have attracted some attention lately as a novel and interesting twist on classic disease models. While most of the initial investigations have focused on the continuous, fully mixed dynamics of a differential equation model, we have explored stochastic, discrete simulations on lattices. We explore some of the basic statistical mechanical properties of the zombie model, including its phase diagram and critical exponents. We report on several variant models, including both homogeneous and inhomogeneous lattices, as well as allowing diffusive motion of infected hosts. We build up to a full scale simulation of an outbreak in the United States, and discover that for `realistic' parameters, we are largely doomed. ||||| Zombies as portrayed in the movie Night of the Living Dead. Credit: Wikipedia A team of Cornell University researchers focusing on a fictional zombie outbreak as an approach to disease modeling suggests heading for the hills, in the Rockies, to save your 'braains' from the 'undead.' 
+ 
+ Reading World War Z, an oral history of the first zombie war, and a graduate statistical mechanics class inspired a group of Cornell University researchers to explore how an "actual" zombie outbreak might play out in the U.S. 
+ 
+ During the 2015 American Physical Society March Meeting, on Thursday, March 5 in San Antonio, Texas, the group will describe their work modeling the statistical mechanics of zombies—those thankfully fictional "undead" creatures with an appetite for human flesh. 
+ 
+ Why model the mechanics of zombies? "Modeling zombies takes you through a lot of the techniques used to model real diseases, albeit in a fun context," says Alex Alemi, a graduate student at Cornell University. 
+ 
+ Alemi and colleagues' work offers a nice introduction to disease modeling in general, as well as some techniques of statistical physics for measuring second-order phase transitions. "It's interesting in its own right as a model, as a cousin of traditional SIR [susceptible, infected, and resistant] models—which are used for many diseases—but with an additional nonlinearity," points out Alemi. 
+ 
+ All told, the project was an overview of modern epidemiology modeling, starting with differential equations to model a fully connected population, then moving on to lattice-based models, and ending with a full U.S.-scale simulation of an outbreak across the continental U.S. 
+ 
+ It involved a lot of computational results generated from simulations the researchers wrote themselves. "At their heart, the simulations are akin to modeling chemical reactions taking place between different elements and, in this case, we have four states a person can be in—human, infected, zombie, or dead zombie—with approximately 300 million people," Alemi explains. 
+ 
+ The project's large-scale simulations are stochastic in nature, meaning that they have an element of randomness. "Each possible interaction—zombie bites human, human kills zombie, zombie moves, etc.—is treated like a radioactive decay, with a half-life that depends on some parameters, and we tried to simulate the times it would take for all of these different interactions to fire, where complications arise because when one thing happens it can affect the rates at which all of the other things happen," he says. 
+ 
+ In most films or books, "if there is a zombie outbreak, it is usually assumed to affect all areas at the same time, and some months after the outbreak you're left with small pockets of survivors," explains Alemi. "But in our attempt to model zombies somewhat realistically, it doesn't seem like this is how it would actually go down." 
+ 
+ Cities would fall quickly, but it would take weeks for zombies to penetrate into less densely populated areas, and months to reach the northern mountain-time zone. 
+ 
+ "Given the dynamics of the disease, once the zombies invade more sparsely populated areas, the whole outbreak slows down—there are fewer humans to bite, so you start creating zombies at a slower rate," he elaborates. "I'd love to see a fictional account where most of New York City falls in a day, but upstate New York has a month or so to prepare." 
+ 
+ If you somehow happen to find yourself in the midst of a fictional zombie outbreak and want to survive as long as possible, Alemi recommends making a run for the northern Rockies. While not an entirely practical implication, it's "fun to know," he says, and points out the benefits of applying hard science to fun topics—especially to help make learning more entertaining and enjoyable. 
+ 
+ "A lot of modern research can be off-putting for people because the techniques are complicated and the systems or models studied lack a strong connection to everyday experiences," Alemi adds. "Not that zombies are an everyday occurrence, but most people can wrap their braains around them." 
+ 
+ What's next for Alemi and colleagues? "Given the time, we could attempt to add more complicated social dynamics to the simulation, such as allowing people to make a run for it, include plane flights, or have an awareness of the zombie outbreak, etc.," he notes. 
+ 
+ Explore further: UK brains under threat? 
+ 
+ More information: meeting.aps.org/Meeting/MAR15/Session/S48.8 
+ 

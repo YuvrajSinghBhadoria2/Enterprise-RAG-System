@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Estimating the number of Buddhists in the world, or in many countries, is difficult due to definitional issues as well as practical problems of enumeration.

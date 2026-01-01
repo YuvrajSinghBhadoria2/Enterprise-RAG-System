@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Rocket engines are reaction engines and obtain thrust in accordance with Newton's third law .

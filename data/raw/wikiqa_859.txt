@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Rovers have several advantages over stationary landers : they examine more territory, they can be directed to interesting features, they can place themselves in sunny positions to weather winter months and they can advance the knowledge of how to perform very remote robotic vehicle control.

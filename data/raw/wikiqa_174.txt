@@ -1,0 +1,3 @@
+Source: WikiQA
+
+In clinical practice, COPD is defined by its characteristically low airflow on lung function tests .

@@ -1,0 +1,3 @@
+Source: WikiQA
+
+A light-adapted eye generally has its maximum sensitivity at around 555 nm (540 THz), in the green region of the optical spectrum (see: luminosity function ).

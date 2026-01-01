@@ -1,0 +1,71 @@
+Source: Multi-News
+
+The year 2015 will be slightly longer after the Paris Observatory announced it was adding a leap second to clocks this summer. 
+ 
+ On June 30, dials will read 11:59:60 as clocks hold their breath for a second to allow the Earth’s rotation to catch up with atomic time. 
+ 
+ Atomic time is constant, but the Earth’s rotation is gradually slowing down by around two thousandths of a second per day. 
+ 
+ It is the task of scientists and officials at the International Earth Rotation Service based in France to monitor the planet's rotation and tweak time where necessary. Some years the Earth runs bang on time and no adjustment is needed. 
+ 
+ Software companies are already bracing themselves for problems. When the last leap second was added in 2012 Mozilla, Reddit, Foursquare, Yelp, LinkedIn, and StumbleUpon all reported crashes and there were problems with the Linux operating system and programmes written in Java. 
+ 
+ Many computing systems use the Network Time Protocol, or NTP, to keep themselves in sync with the world’s atomic clocks. But most are not programmed to deal with an unexpected extra second. 
+ 
+ Google has even developed a special technique to deal with what it refers to as a ‘leap smear’ where it gradually adds milliseconds to its system clocks prior to the official arrive of the leap second. 
+ 
+ "The Earth is slowing down a little bit," said Nick Stamatakos, the chief of Earth Orientation Parameters at the US Naval Observatory. 
+ 
+ "Atomic clocks keep very accurate time. The measurements are telling us 'Oh, they're slowing down'" 
+ 
+ The first leap second was added in 1972, and it will be the 26th time it has been added to clocks in history. 
+ 
+ It means the rotation of the Earth will have slowed 26 seconds compared to the time measured on atomic clocks. 
+ 
+ "They add an extra second to something called UTC (Coordinated Universal Time) in order to make sure the rate of UTC is the same as atomic time," he said. 
+ 
+ Adding the leap second will mean that at 11:59:59pm on June 30 for one second clocks will read 11:59:60pm. 
+ 
+ "For that day [June 30] there'll be 86,401 seconds, instead of 86,400 seconds. The length of the day for you and I and everyone on the Earth will have an extra second," added Mr Stamatakos. 
+ 
+ Leap seconds are rarer these days than they were when the practice of adding seconds first began. 
+ 
+ From 1972 to 1979, at least one second was added every year. Leap seconds were added six times throughout the 1980s. But there will only have been four leap seconds added since 1999. 
+ 
+ The US wants to get rid of leap seconds claiming they're too disruptive to precision systems used for navigation and communication. At a conference in Geneva in 2012 delegates argued that precisely timed money transactions could go astray or vehicles could be sent tens of metres out of position if they are a second out in their measurement of time 
+ 
+ But Britain opposes the change, saying that it would forever break the link between our concept of time and the rising and setting of the Sun. 
+ 
+ It would also spell the end for Greenwich Mean Time, which is measured by the time at which the Sun crosses the Greenwich Meridian and was adopted in Britain in 1847 
+ 
+ Experts also fear that once this link is broken it could never be restored because although the Earth's timekeeping systems are built to accommodate the occasional leap second, adding a leap minute or hour to global time would be virtually impossible. 
+ 
+ Rory McEvoy, Curator of Horology, Royal Observatory Greenwich, said: "Since antiquity the Earth’s rotation has provided us with our timescale – it is the Earth’s rotation that gives us our most basic unit of time, the solar day. 
+ 
+ "In the early 20th century civil time, Greenwich Mean Time (GMT), was disseminated by radio signal. The clocks connected to the radio transmitters were constantly checked and adjusted, when necessary, according to astronomical determination of time. 
+ 
+ "This setup did not require leap seconds. It was only after the redefinition of the si second in 1967, when it became an issue because it was based on atomic timekeeping (more accurate than the Earth). It was felt that civil time, Co-ordinated Universal Time (UTC), should correspond with Earth rotation. In 1972 the first leap second was added to UTC to correct the disparity. 
+ 
+ "The Earth’s speed of rotation has a tendency to slow – caused principally because of the relationship between Earth and the moon – but it can speed up. There is a possibility that a negative leap second could be added to UTC. 
+ 
+ "The abolition of the leap second is being considered and after around 12 years of discussion there may be a decision made later this year." ||||| Because Earth's rotation is slowing ever so slightly, we occasionally need to add an extra second to re-sync our super-precise atomic clocks to our planet's rotation. But you know who's not on board with that? Those damn computers, whose operating systems just can't handle it. The last time we added a leap second in 2012, it wreaked havoc across the Internet. 
+ 
+ Leap seconds are governed by the Paris-based International Earth Rotation Service, which this week announced its plan to make June 30, 2015 one second longer. This will be the 26th such leap second added since 1972. 
+ 
+ Advertisement 
+ 
+ In those intervening decades, though, we've become ever more dependent on computers and GPS systems that need to keep exact time—making the task ever more fraught. In 2012, the act of adding a simple second took down Mozilla, Reddit, Foursquare, Yelp, LinkedIn, and StumbleUpon, according to the Telegraph. And yes, Gizmodo was not spared either. 
+ 
+ It mostly has to do with NTP, or the Network Time Protocol computers use to sync with atomic clocks. If a computer sees the same second twice in a row, it logically thinks something went very wrong. There are fixes to this, but they've obviously not been implemented across the board. 
+ 
+ Apparently, the Telegraph reports, there's been some controversy over whether to keep adding leap seconds. U.S. delegates have argued that "precisely timed money transactions could go astray or vehicles could be sent tens of metres out of position if they are a second out in their measurement of time." It's amazing to think that our world is so interconnected but fragile that a single second could send hiccups rippling through the system. 
+ 
+ Advertisement 
+ 
+ But, perhaps, more frighteningly, if we don't keep adding leap seconds, the primordial link between our notion of a day and the rotation of the Earth could be forever disrupted. 
+ 
+ Experts also fear that once this link is broken it could never be restored because although the Earth's timekeeping systems are built to accommodate the occasional leap second, adding a leap minute or hour to global time would be virtually impossible. 
+ 
+ After all, what is a day? Is it 24 hours exactly? Is it one complete revolution of the Earth? Armed with our super-precise modern instruments, we find ourselves asking basic questions about our world. [The Telegraph] 
+ 
+ Top image: Janaka Dharmasena/Shutterstock

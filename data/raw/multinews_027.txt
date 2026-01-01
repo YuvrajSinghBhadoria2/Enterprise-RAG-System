@@ -1,0 +1,57 @@
+Source: Multi-News
+
+(CNN) Want to launch a nuclear missile? You'll need a floppy disk. 
+ 
+ That's according to a new report by the U.S. Government Accountability Office (GAO), which found that the Pentagon was still using 1970s-era computing systems that require "eight-inch floppy disks." 
+ 
+ Photos: Gadget graveyard Photos: Gadget graveyard Floppy discs – Eight-inch floppy discs became commercially available in the 1970s. They allowed up to 1.2 megabytes of storage capacity. Today, a flash drive can hold up to 1 terabyte and comes in all sorts of practical novelty designs. Hide Caption 1 of 10 Photos: Gadget graveyard Polaroid – Long before there was Instagram, Polaroid was king. The Polaroid celebrated its 75th anniversary in 2012. But by then most of us had no more need to ever shake a Polaroid picture again. Not entirely resurrected, Polaroids are retro-cool and often pop up at weddings and other celebrations. Hide Caption 2 of 10 Photos: Gadget graveyard CDs – CDs and Discmans may have fallen out of favor in the iTunes world, but creative minds always find new uses for the reflective music carriers. Hide Caption 3 of 10 Photos: Gadget graveyard Pagers – People slapped these suckers on their hips, feeling important whenever they beeped or vibrated. Then they'd frantically have to find a few coins to use a payphone. The RIM 850 (before it was called BlackBerry) pager could send messages and emails but never nailed the art of the selfie. Hide Caption 4 of 10 Photos: Gadget graveyard Pocket PC – The pocket PC and Palm Pilot brought your calendars, addresses, contacts and a calculator into one handy dandy tool instead of hand-scrawled notebooks. Downsides apart from the original green screen? They couldn't make calls. Worse than that, the pen/pencil/stylus/thingy would always vanish. Hide Caption 5 of 10 Photos: Gadget graveyard VHS – The clunky plastic cassettes would sometimes tangle in the machine and, over time, stretch to produce warped purple colors on the TV. But boy, did we love VCRs and video nights. And boy, did we hate programming them. Hide Caption 6 of 10 Photos: Gadget graveyard Walkman – The Walkman gave a valid excuse to shut out parents, oncoming traffic and most forms of social interaction. Various models included a waterproof Walkman, graphic equalizer, LCD radio screens, Mega Bass and, in original versions, two headphone jacks. The greatest invention since the Walkman -- and possibly sliced bread -- remains auto-reverse, saving users the hassle of having to eject and flip the cassette over. Hide Caption 7 of 10 Photos: Gadget graveyard MiniDisc – The MiniDisc was something of a hybrid of small CD and plastic cassette. Journos loved them, particularly if you worked in radio as editing was a breeze. These durable gadgets took up little space and were anti-skip, unlike (pre-memory) CD players. Per the original Walkman, it was a Sony product. The company laid the MD to rest earlier this year. Hide Caption 8 of 10 Photos: Gadget graveyard LaserDisc – Stalwarts of the LaserDisc player maintain the format offered higher-quality video and audio than the videocassette. But then the DVD came along. Hide Caption 9 of 10 Photos: Gadget graveyard Classic consoles – Atari brought the first in-home console to market during the 1970s with the addictive "Pong" and "Centipede." But Atari went from high score to game over, when it filed for bankruptcy in January this year. The rise of gaming on PCs and mobile devices has impacted the console videogame industry. Hide Caption 10 of 10 
+ 
+ Such disks were already becoming obsolete by the end of that decade, being edged out by smaller, non-floppy 3.5 to 5.25-inch disks, before being almost completely replaced by the CD in the late 90s. 
+ 
+ Except in Washington that is. The GAO report says that U.S. government departments spend upwards of $60 billion a year on operating and maintaining out-of-date technologies. 
+ 
+ That's three times the investment on modern IT systems. 
+ 
+ Read More ||||| Image copyright ADAM BUTLER Image caption Eight-inch floppy disks date back to the early days of computer systems 
+ 
+ The US nuclear weapons force still uses a 1970s-era computer system and 8-inch floppy disks, a government report has revealed. 
+ 
+ The Government Accountability Office said the Pentagon was one of several departments where "legacy systems" urgently needed to be replaced. 
+ 
+ The report said taxpayers spent $61bn (£41bn) a year on maintaining ageing technologies. 
+ 
+ It said that was three times more than the investment on modern IT systems. 
+ 
+ The report said that the Department of Defence systems that co-ordinated intercontinental ballistic missiles, nuclear bombers and tanker support aircraft "runs on an IBM Series-1 Computer - a 1970s computing system - and uses eight-inch floppy disks". 
+ 
+ "This system remains in use because, in short, it still works," Pentagon spokeswoman Lt Col Valerie Henderson told the AFP news agency. 
+ 
+ The floppy disk - what is it? 
+ 
+ Image copyright Eyewire 
+ 
+ Also called diskette or disk, it became popular in the 1970s 
+ 
+ A standard 8in (200 mm) floppy disk had 237.25kB of storage space, enough for 15 seconds of audio 
+ 
+ You would need more than 130,000 8-inch floppy disks to store 32GB of information - the size of an average memory stick 
+ 
+ In the 1990s, the 3.5in floppy became the norm, with a 1.44MB of memory 
+ 
+ Dell stopped making computers with inbuilt floppy disks in 2003. Very few manufacturers still make them 
+ 
+ They are still in use in some 1990s technical equipment too valuable to scrap 
+ 
+ "However, to address obsolescence concerns, the floppy drives are scheduled to be replaced with secure digital devices by the end of 2017." 
+ 
+ She added: "Modernisation across the entire Nuclear Command, Control, and Communications enterprise remains ongoing." 
+ 
+ The report said that the Pentagon was planning to fully replace the system by the end of 2020. 
+ 
+ According to the report, the US treasury also needed to upgrade its systems, which it said was using "assembly language code - a computer language initially used in the 1950s and typically tied to the hardware for which it was developed". ||||| The Pentagon and other US agencies still rely on outdated technology to carry out important functions — including some nuclear operations — according to a new government report. The report, published by the Government Accountability Office (GAO), shows that a command and control unit tasked with coordinating "the operational functions of the nation's nuclear forces" still uses 8-inch floppy disks and runs on an IBM / Series 1 computer — a model that was first produced in 1976. Other agencies, including the Department of the Treasury and the Department of Veteran Affairs, reported using IT systems that are at least 50 years old. 
+ 
+ The report once again raises concerns over the government's use of obsolete technologies, and the costs associated with them. According to the GAO, taxpayers spent $61.2 billion last year to maintain outdated systems, while just $19.2 billion went toward updating federal technology. The Pentagon says the nuclear command and control unit will phase out floppy disks by the end of 2017, and that it will fully modernize the system by 2020. 
+ 
+ "This system remains in use because, in short, it still works," Pentagon spokeswoman Lt. Col. Valerie Henderson told the AFP. 
+ 
+ The Office of Management and Budget has launched an initiative to replace old IT systems, but it has not yet been finalized. Until it's put into place, the report says, "the government runs the risk of maintaining systems that have outlived their effectiveness." ||||| This crawl of online resources of the 115th US Congress was performed on behalf of The United States National Archives & Records

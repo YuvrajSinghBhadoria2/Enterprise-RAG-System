@@ -1,0 +1,91 @@
+Source: Multi-News
+
+(CNN) -- An electrical fire on board a Boeing Dreamliner caused the plane to lose primary electrical power during a test flight Tuesday, the company said. 
+ 
+ The crew relied upon backup systems to land the aircraft. 
+ 
+ "The pilots executed a safe landing and at all times had positive control of the airplane and all of the information necessary to perform that safe landing," Boeing spokeswoman Lori Gunter said Wednesday. 
+ 
+ Boeing is analyzing flight data from the plane, a process it says will take several days, to determine the exact cause of the fire. The company's initial inspection of the aircraft indicated damage to a power control panel in the rear of the aircraft. 
+ 
+ Boeing employees were conducting a test of a system designed to prevent fires when smoke began filling the back of the cabin of the next-generation 787 Dreamliner, according to the company. 
+ 
+ The crew was testing a "nitrogen generation system," which separates nitrogen from ambient air and pumps it into fuel tanks as jet fuel is burned during a flight, Boeing said. 
+ 
+ The system is designed to prevent oxygen from filling the empty space and potentially igniting the fuel. There is no indication, however, that Tuesday's fire was caused by the nitrogen generation system, according to Boeing spokesman Jim Proulx. 
+ 
+ Boeing is grounding its entire fleet of test Dreamliners pending results of its analysis of hundreds of different data measurements to determine the cause of the fire. 
+ 
+ The Dreamliner departed from Yuma, Arizona. After about six hours of flight, smoke entered the cabin as the plane was on approach to Laredo, Texas. 
+ 
+ "It's something that needs to be taken very seriously," said Proulx. "We need to know what happened before we can determine the likelihood of its repeatability." 
+ 
+ The 42 people aboard evacuated using the plane's emergency slides, Federal Aviation Administration spokeswoman Lynn Lunsford said. One person was injured during the evacuation. 
+ 
+ "We are continuing to gather data regarding this event," Gunter said in a statement. "It's too early to tell what may have gone wrong." 
+ 
+ The plane is the second of six test Dreamliners, having undergone 179 flights and 558 hours of flight, according to Boeing data posted on its website. The company does not intend to sell the test plane to any airline customers. 
+ 
+ Boeing says it still intends to deliver the first 787-08 Dreamliner to ANA Airlines in the middle of the first quarter of next year. ANA has 55 Dreamliners on order, which Boeing plans to deliver over the course of several years. 
+ 
+ The Dreamliner is Boeing's new passenger jet, touted as a highly fuel-efficient aircraft made largely with composite materials. 
+ 
+ It made its maiden flight in December 2009 after two years of delays, but the head of Boeing's commercial aircraft division told CNN in July that the Dreamliner could still make its debut in early 2011. 
+ 
+ The company has nearly 900 orders for the jet around the world. 
+ 
+ Aviation experts say Boeing's testing problems are not indicative of the Dreamliner's ultimate safety. 
+ 
+ "If I were a prospective passenger in a 787 I wouldn't be concerned," said Snorri Gudmundsson, assistant professor of aerospace engineering at Embry-Riddle Aeronautical University. "All these bugs will be weeded out." 
+ 
+ "Boeing is quite thorough, not just because of requirements from the FAA but because of Boeing's position in the industry," added Todd Curtis, a former Boeing electrical engineer. 
+ 
+ CNN's Frances Causey and Jason Kessler contributed to this report. ||||| Associated Press A Boeing 787 Dreamliner flies over Farnborough airport before landing ahead of the Farnborough International Airshow on July 18. 
+ 
+ A Boeing Co. 787 Dreamliner on Tuesday made an emergency landing in Laredo, Texas, after the crew reported smoke in the cabin during a test flight. 
+ 
+ The second plane of Boeing's six-member test fleet was on a planned flight from Yuma, Ariz., and making its approach to the Texas border city when a fire broke out at the rear of the cabin at about 2:50 p.m. local time. 
+ 
+ The crew of 42 Boeing flight-test employees onboard used the jet's emergency slides to evacuate, officials said. 
+ 
+ Dreamliner Deferred Boeing's long-awaited 787 Dreamliner has been dogged with problems. See stock price, key events and, in red, production delays. View Interactive 
+ 
+ Emergency crews on the ground responded and extinguished the remainder of flames inside the aircraft. 
+ 
+ A company spokeswoman said there was one minor injury during the evacuation. Boeing said data from the aircraft was being taken to Seattle—the center of the company's commercial aircraft operations—for analysis. It said in a statement that determining what happened "will take some time to accomplish." 
+ 
+ A spokesman for the Federal Aviation Administration in Texas said the agency will also be looking at the incident. 
+ 
+ The incident comes as Boeing pursues a tight timetable to complete testing and certification of the 787 after a series of design and production issues left the program running almost three years behind schedule. 
+ 
+ According to a person familiar with the matter, as the jet was flying at 1,000 feet during the approach to Laredo, the Dreamliner's crew reported a fire, possibly in the plane's rear electronics bay. Subsequently, the 787's emergency auxiliary power unit, known as a ram air turbine, deployed as a result of at least a partial power failure. 
+ 
+ Some of the plane's automated systems, including the auto-throttle and cockpit flight displays and electronics-assisted flight controls, were affected, this person said. The pilots also canceled their instrument flight plan and proceeded to land under visual flight rules. Boeing said the pilot did not lose primary flight displays. 
+ 
+ According to the flight-tracking website FlightAware.com, the Dreamliner had departed Yuma, Ariz., at 7:42 a.m. Mountain Standard Time. It was expected to land in Laredo sometime on Tuesday afternoon after a flight of several hours testing the Dreamliner's nitrogen-generation system, a new safety measure designed to reduce the risk of fire in the plane's fuel tanks. 
+ 
+ The state-of-the-art 787, which is made largely of carbon-fiber composite material, depends heavily on its vast and complex electrical system. 
+ 
+ Unlike most modern commercial airliners, the Dreamliner uses electrical systems to operate many functions on the plane that are typically powered by excess air from the engines, known as a bleed air system. 
+ 
+ Boeing executives have touted the levels of electronic and computer redundancies built into the plane's design. It appears that some of the electrical systems may have failed after the fire. 
+ 
+ The test Dreamliner jet is painted in the color scheme of Japan's All Nippon Airways Co., the first customer for the new airliner, though the test jet isn't slated for delivery to the airline. 
+ 
+ Boeing last year said the first three Dreamliner test aircraft have been too heavily modified for commercial service. The plane is equipped with Rolls-Royce PLC's Trent 1000 engines, which have come under scrutiny in recent months after a series of problems with the engines both on flying test aircraft and at Rolls-Royce's ground testing facility in Derby, England. 
+ 
+ Tuesday's emergency was unrelated to its engines, a person familiar with the incident said. 
+ 
+ On Monday, Rolls-Royce, which is at the center of last week's mishap involving one of its engines on a Qantas Airways Ltd. Airbus A380 superjumbo jet, issued a statement saying the Airbus incident was unrelated to problems with the Dreamliner's engine. The next day, a Qantas Boeing 747 reported a different problem with its Rolls-Royce engine. 
+ 
+ Tuesday's incident in Texas is the latest setback for Boeing's new flagship commercial aircraft program, which is running nearly three years behind schedule. The first Dreamliner is slated for delivery to ANA sometime in the first quarter of next year. 
+ 
+ It's unclear if Tuesday's incident will further affect that timetable. 
+ 
+ —Doug Cameron contributed to this article. 
+ 
+ Write to Peter Sanders at peter.sanders@wsj.com 
+ 
+ Corrections & Amplifications 
+ 
+ A previous version of this article incorrectly said Tuesday's emergency was related to its engines.

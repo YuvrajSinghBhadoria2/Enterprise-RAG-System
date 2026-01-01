@@ -1,0 +1,3 @@
+Source: WikiQA
+
+Gravitation acting alone does not produce a g-force, even though g-forces are expressed in multiples of the acceleration of a standard gravity.

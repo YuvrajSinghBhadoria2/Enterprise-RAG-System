@@ -1,0 +1,3 @@
+Source: WikiQA
+
+If rational numbers are included, then a square is the ratio of two square integers, and, conversely, the ratio of two square integers is a square (e.g., 4/9 = (2/3)2).

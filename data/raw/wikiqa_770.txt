@@ -1,0 +1,3 @@
+Source: WikiQA
+
+In bacteria and archaea, more than one ribosome may move along a single mRNA chain at one time, each "reading" its sequence and producing a corresponding protein molecule.

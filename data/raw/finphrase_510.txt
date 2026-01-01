@@ -1,0 +1,3 @@
+Source: FinancialPhrasebank
+
+The address location is provided to a local controller , preferably by wireless transmission , which then uses the address location to access the appliance control module .

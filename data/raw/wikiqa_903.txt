@@ -1,0 +1,3 @@
+Source: WikiQA
+
+An example here is a rocket in free space, in which simple changes in velocity are produced by the engines, and produce g-forces on the rocket and passengers.

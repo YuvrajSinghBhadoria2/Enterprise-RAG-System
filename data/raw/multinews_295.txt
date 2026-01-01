@@ -1,0 +1,123 @@
+Source: Multi-News
+
+Bitcoin’s value crossed the $15,000 threshold for the first time today, marking another milestone in its dizzying ascent. In recent months, the cryptocurrency has undergone a staggering increase in value; surging from roughly $3,500 in mid-September to its current price. And at the start of the year, a single Bitcoin was worth less than $800. 
+ 
+ What happens next is anyone’s guess, and most analysts are united only in their uncertainty over the cryptocurrency’s future. Bitcoin long ago stopped being useful for actually buying things (partly because of its rocketing value and partly because of achingly-slow transaction times), so the questions facing speculators are: is this a bubble? And if so, when will it burst? 
+ 
+ Some traders figure we’re getting close, and are preparing to short Bitcoin; that is, make bets that its value will decrease in the future. “[It’s] one of the greatest shorting opportunities ever,” cryptocurrency Lou Kerner told Bloomberg earlier this week. “You have a lot of zealotry, and a lot of people, including me, who think it’s the greatest thing to ever happen in the history of mankind. You have a lot of people who think it’s a bubble and a Ponzi scheme. It turns out both of them can’t be right.” 
+ 
+ Although the general trend for Bitcoin’s valuation is only up, the cryptocurrency has been extremely volatile. On November 29th, for example, its value fell 20 percent in less than an hour and half; dropping from over $11,000 a tick above $9000. For true believers, such blips are only temporary, but skeptics caution that any plunge could end up being permanent. After crossing $15,000 earlier today it’s value quickly dipped down to around $14,800. 
+ 
+ Read more: 2017 is the year cryptocurrency joined the financial system 
+ 
+ Bitcoin’s skyrocketing valuation has also brought with it a new problem: energy costs. It takes enormous amounts of power to sustain the Bitcoin network, and, according to a report from Ars Technica, it’s estimated that the cryptocurrency currently consumes as much electricity annually as the whole of Denmark. Predicting exactly how this consumption will rise or fall in the future is difficult (it depends on things like the rate at which new bitcoins are mined and the number of transactions), but given that Bitcoin only currently has use as a speculative asset class, it seems unsustainable. 
+ 
+ Meanwhile, financial experts are struggling to make sense of the phenomenon as a whole. One analyst quoted by the Financial Times, Walter Zimmerman, suggests that the best way to look at Bitcoin is as an absurd video game with no boundaries. “Users of other currencies find utility in a stable value. But not here in Bitcoin world,” writes Zimmerman. “The reality of Bitcoin is that users are also players. And the objective of this game is the highest possible score.” But how much higher can it go? ||||| FILE - In this April 7, 2014, file photo, Bitcoin logos are displayed at the Inside Bitcoins conference and trade show in New York. A federal regulator gave the go ahead on Friday, Dec. 1, 2017, to the... (Associated Press) 
+ 
+ FILE - In this April 7, 2014, file photo, Bitcoin logos are displayed at the Inside Bitcoins conference and trade show in New York. A federal regulator gave the go ahead on Friday, Dec. 1, 2017, to the... (Associated Press) 
+ 
+ NEW YORK (AP) — A federal regulator gave the go ahead on Friday to the CME Group to start trading bitcoin futures later this month, the first time the digital currency will be traded on a Wall Street exchange and subject to federal oversight. 
+ 
+ The CME Group, which owns the Chicago Mercantile Exchange, will start trading bitcoin futures Dec. 18, the company said. The Commodities Futures Trading Commission, the primary regulator for exchanges like the CME, gave approval for the exchange to create bitcoin futures after six weeks of discussions. 
+ 
+ The CME Group is using a process known as "self-certification," which is when an exchange pledges that the new instruments will not break any federal securities laws. 
+ 
+ The price of bitcoin futures will be based on the price the digital currency is going for on four major bitcoin exchanges — Bitstamp, GDAX, itBit and Kraken. Due to its volatility, bitcoin futures will be subject higher margin levels and intraday price limits, the CME said. 
+ 
+ The move will subject some of the bitcoin market to federal regulation for the first time. It will also open up bitcoin trading to a larger group of investors and traders, who have been reluctant to purchase the virtual currency on the private exchanges. 
+ 
+ Bitcoin has gained more mainstream attention lately as its price has soared on the private exchanges. It was trading Friday at around $10,500, after being worth roughly $1,000 at the beginning of the year. ||||| SHARE THIS ARTICLE Share Tweet Post Email 
+ 
+ Bitcoin surged past $16,000 for the first time on Thursday, with frenzied demand to trade the cryptocurrency buckling one of the largest exchanges just days before the first U.S. futures contracts begin trading. 
+ 
+ Bitcoin’s rally of more than $3,000 in the past 24 hours continues to defy its legions of skeptics, as mainstream demand for the world’s largest cryptocurrency explodes. Investors flocking to open new accounts or place orders Thursday left Coinbase, the largest U.S. exchange, warning of outages and slow transactions. 
+ 
+ Trezor, a wallet service, tweeted that it’s having “minor issues” with its servers, while Bitfinex, the largest bitcoin exchange in the world, said on Twitter that it has been under a denial of service attack for several days and that it recently got worse. 
+ 
+ Bitcoin listed at $16,395 as of 1:15 p.m. in Bloomberg pricing that is a composite of exchanges. That takes its rally this year past 1,500 percent and its market capitalization is now at $274 billion. On Thursday it topped out at $16,777.08 after starting the day at $13,363.25. 
+ 
+ “This is irrational exuberance,” Royal Bank of Scotland Chairman Howard John Davies said in an interview on Bloomberg TV on Thursday. “This is a very, very unusual market, that shows we’re not in a normal two-way trading market.” 
+ 
+ Daily price swings of that magnitude and weakness at the exchanges underscored concerns raised Wednesday by some of the world’s biggest brokerages, which told regulators the contracts have been rushed to market without enough due diligence. The new bitcoin derivatives products are slated to begin trading this month and are expected to boost mainstream demand. On a day such as Thursday, trading would pause under proposed daily price-swing limitations. 
+ 
+ The slowdown on exchanges also highlighted the disparate pricing that can occur. The surging demand on Coinbase sent prices as high as $19,697 at 11:23 a.m., higher by more than $3,000 than other exchanges. Coinbase added at least 300,000 users since just before the Thanksgiving holiday. The company had 13.3 million users as of Nov. 26, up from 13 million on Nov. 22 and 10.6 million two months ago. 
+ 
+ Davies agreed with the brokerages’ concerns that exchanges which are set to offer bitcoin futures and options have failed to get enough feedback from market participants on margin levels, trading limits, stress tests and clearing. Those warnings were laid out in an open letter via the Futures Industry Association on Wednesday. 
+ 
+ Cboe Global Markets Inc. has said it will start trading bitcoin futures on Dec. 10, while CME Group Inc.’s contracts are set to debut on Dec. 18. Nasdaq Inc. is planning to offer futures in 2018, according to a person familiar with the matter. Cantor Fitzgerald LP’s Cantor Exchange is creating a bitcoin derivative, and startup LedgerX already offers options. 
+ 
+ ASX Ltd., the main exchange operator for equities and derivatives in Australia, on Thursday said it will start using blockchain, the technology that underlies bitcoin, to process equity transactions. The digital currency also got a boost from a successful test of a technology that will attempt to ease congestion in purchases of the digital currency. 
+ 
+ Lightning Network, as the technology is known, was conceived to move some transactions away from the blockchain, by allowing buyers and sellers to transact privately and later broadcast their activity to the public network. 
+ 
+ The price of bitcoin cash fell on the news, slumping 9.1 percent to $1,342.86, according to prices on coinmarketcap.com. The cryptocurrency rival offers a separate solution to bitcoin’s congestion issue. 
+ 
+ See here for more coverage of bitcoin’s volatile ride: 
+ 
+ Bitcoin Mining Service NiceHash Says Hackers Emptied Its Wallet 
+ 
+ Bitcoin Frenzy Like No Other Has Koreans Paying 23% Premium 
+ 
+ What the Central Banks Are Saying About Cryptocurrencies 
+ 
+ Bitcoin Volatility Intensifies as Exchanges Struggle With Demand 
+ 
+ All About Bitcoin, Blockchain and Their Crypto World: QuickTake 
+ 
+ — With assistance by Matthew Leising ||||| FILE - In this Monday, April 7, 2014, file photo, a bitcoin logo is displayed at the Inside Bitcoins conference and trade show in New York. The bitcoin miner NiceHash says it is investigating a security... (Associated Press) 
+ 
+ FILE - In this Monday, April 7, 2014, file photo, a bitcoin logo is displayed at the Inside Bitcoins conference and trade show in New York. The bitcoin miner NiceHash says it is investigating a security breach and the theft of the contents of the NiceHash "bitcoin wallet." The company said Thursday,... (Associated Press) 
+ 
+ FILE - In this Monday, April 7, 2014, file photo, a bitcoin logo is displayed at the Inside Bitcoins conference and trade show in New York. The bitcoin miner NiceHash says it is investigating a security breach and the theft of the contents of the NiceHash "bitcoin wallet." The company said Thursday,... (Associated Press) FILE - In this Monday, April 7, 2014, file photo, a bitcoin logo is displayed at the Inside Bitcoins conference and trade show in New York. The bitcoin miner NiceHash says it is investigating a security... (Associated Press) 
+ 
+ TOKYO (AP) — A bitcoin mining company in Slovenia has been hacked for the possible theft of tens of millions of dollars, just days before the virtual currency, which hit a record above $15,000 on Thursday, is due to start trading on major U.S. exchanges. 
+ 
+ NiceHash, a company that mines bitcoins on behalf of customers, said it is investigating a security breach and will stop operating for 24 hours while it verifies how many bitcoins were taken. 
+ 
+ Research company Coindesk said that a wallet address referred to by NiceHash users indicates that about 4,700 bitcoins had been stolen. At Thursday's record price of about $15,000, that puts the value at over $70 million. 
+ 
+ There was no immediate response from NiceHash to an emailed request for more details. 
+ 
+ "The incident has been reported to the relevant authorities and law enforcement and we are cooperating with them as a matter of urgency," it said. The statement urged users to change their online passwords. 
+ 
+ Slovenian police are investigating the case together with authorities in other states, spokesman Bostjan Lindav said, without providing details. 
+ 
+ The hack will put a spotlight on the security of bitcoin just as the trading community prepares for the currency to start trading on two established U.S. exchanges. Futures for bitcoin will start trading on the Chicago Board Options Exchange on Sunday evening and on crosstown rival CME Group's platforms later in the month. 
+ 
+ That has increased the sense among some investors that bitcoin is gaining in mainstream legitimacy after several countries, like China, tried to stifle the virtual currency. 
+ 
+ As a result, the price of bitcoin has jumped in the past year, particularly so in recent weeks. On Thursday it surged to over $15,000, up $1,300 in less than a day, according to Coindesk. At the start of the year, one bitcoin was worth less than $1,000. 
+ 
+ Bitcoin is the world's most popular virtual currency. Such currencies are not tied to a bank or government and allow users to spend money anonymously. They are basically lines of computer code that are digitally signed each time they are traded. 
+ 
+ A debate is raging on the merits of such currencies. Some say they serve merely to facilitate money laundering and illicit, anonymous payments. Others say they can be helpful methods of payment, such as in crisis situations where national currencies have collapsed. 
+ 
+ Miners of bitcoins and other virtual currencies help keep the systems honest by having their computers keep a global running tally of transactions. That prevents cheaters from spending the same digital coin twice. 
+ 
+ Online security is a vital concern for such dealings. 
+ 
+ In Japan, following the failure of a bitcoin exchange called Mt. Gox, new laws were enacted to regulate bitcoin and other virtual currencies. Mt. Gox shut down in February 2014, saying it lost about 850,000 bitcoins, possibly to hackers. 
+ 
+ ___ 
+ 
+ Ali Zerdin in Ljubljana, Slovenia, and Carlo Piovano in London contributed to this story. ||||| Markets Insider 
+ 
+ Bitcoin rises above $16,000 for the first time on Thursday. 
+ 
+ The digital currency has risen $4,000 in the past 48 hours. 
+ 
+ LONDON — Bitcoin passed $16,000 per coin for the first time on Thursday, just 24 hours after clearing $14,000 for the first time ever. 
+ 
+ Bitcoin hit $16,000 at around 4.05 p.m. GMT (11.05 a.m. ET) on Thursday. It had passed $15,000 for the first time at about 10.50 a.m. GMT (5.50 a.m. ET) on Thursday and passed $14,000 for the first time late on Wednesday. 
+ 
+ Bitcoin continues to break its own record highs against the dollar and has now risen by over $4,000 over the past 48 hours. It has gained well over 1,000% across 2017. 
+ 
+ Neil Wilson, a senior analyst at ETX Capital, said in an email: "We're running out of new things to say about this - the price action is exceptional and something that is without any parallels. It's a bubble for sure in its dynamic, we just don't know when or how it will collapse." 
+ 
+ The incredible rise means the total value of the cryptocurrency market has now passed $400 billion, according to CoinMarketCap.com. The market surpassed $300 billion just 10 days ago. Bitcoin represents 63% of the value of the entire market, according to CoinMarketCap.com. 
+ 
+ The latest bull run began in earnest at the end of October when CME Group, the world's biggest exchange operator, announced plans to launch bitcoin futures contracts that would give institutional investors exposure to the new asset class. The rival Cboe is beating CME Group to the punch, launching its future contracts on Monday. 
+ 
+ The Royal Bank of Scotland's chairman, Sir Howard Davies, said on Bloomberg TV on Thursday that he was concerned bitcoin was "a frothy investment bubble." 
+ 
+ "All the authorities can do is put up the sign from Dante's Inferno — 'Abandon hope all ye who enter here'," Davies said, according to The Guardian, which reported the comments. "That's what's needed, and it need to come from the Federal Reserve, the European Central Bank, and the Bank of England at the same time."
